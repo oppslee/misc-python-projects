@@ -1,0 +1,1668 @@
+[
+    {
+        "word": "abash to mortify = abhor to loath",
+        "chinese": "使羞愧|使受辱 = 厌恶|讨厌",
+        "look": "1",
+        "id": "27718630",
+        "word_id": "6644"
+    },
+    {
+        "word": "abbreviate to shorten",
+        "chinese": "缩短|使变短",
+        "look": "1",
+        "id": "27718631",
+        "word_id": "6645"
+    },
+    {
+        "word": "actor to script",
+        "chinese": "演员|剧本",
+        "look": "1",
+        "id": "27718632",
+        "word_id": "6646"
+    },
+    {
+        "word": "adverb to verb = adjective to noun",
+        "chinese": "副词|动词 = 形容词|名词",
+        "look": "1",
+        "id": "27718633",
+        "word_id": "6647"
+    },
+    {
+        "word": "aesthete to beauty",
+        "chinese": "审美家|美",
+        "look": "1",
+        "id": "27718634",
+        "word_id": "6648"
+    },
+    {
+        "word": "agility to gymnastics = strength to weightlifting",
+        "chinese": "灵活|体操 = 力量|举重",
+        "look": "1",
+        "id": "27718635",
+        "word_id": "6649"
+    },
+    {
+        "word": "aloof to distant",
+        "chinese": "远离的|遥远的",
+        "look": "1",
+        "id": "27718636",
+        "word_id": "6650"
+    },
+    {
+        "word": "ambition to achievement",
+        "chinese": "野心|成就",
+        "look": "1",
+        "id": "27718637",
+        "word_id": "6651"
+    },
+    {
+        "word": "anarchist to government = abolitionist to slavery",
+        "chinese": "无政府主义者|政府 = 废奴主义者|政治",
+        "look": "1",
+        "id": "27718638",
+        "word_id": "6652"
+    },
+    {
+        "word": "anatomist to dissect",
+        "chinese": "解剖者|分解",
+        "look": "1",
+        "id": "27718639",
+        "word_id": "6653"
+    },
+    {
+        "word": "anxious to apprehend",
+        "chinese": "焦虑的|担忧",
+        "look": "1",
+        "id": "27718640",
+        "word_id": "6654"
+    },
+    {
+        "word": "apathetic to phlegmatic = zeal to enthusiastic",
+        "chinese": "无情的|冷静过分 = 狂热的|热情过头",
+        "look": "1",
+        "id": "27718641",
+        "word_id": "6655"
+    },
+    {
+        "word": "apostate to religion",
+        "chinese": "变节者|宗教(信仰)",
+        "look": "1",
+        "id": "27718642",
+        "word_id": "6656"
+    },
+    {
+        "word": "apron to cooks = coverall to mechanics",
+        "chinese": "围裙|厨师 = 衣裤相连的工作服|机械师",
+        "look": "1",
+        "id": "27718643",
+        "word_id": "6657"
+    },
+    {
+        "word": "articulate to orator",
+        "chinese": "口齿清晰|演说家",
+        "look": "1",
+        "id": "27718644",
+        "word_id": "6658"
+    },
+    {
+        "word": "author to royalty",
+        "chinese": "作家|版税",
+        "look": "1",
+        "id": "27718645",
+        "word_id": "6659"
+    },
+    {
+        "word": "barometer to pressure",
+        "chinese": "气压计|压强",
+        "look": "1",
+        "id": "27718646",
+        "word_id": "6660"
+    },
+    {
+        "word": "basketball to court = chess to board",
+        "chinese": "篮球|篮球场 = 国际象棋|棋盘",
+        "look": "1",
+        "id": "27718647",
+        "word_id": "6661"
+    },
+    {
+        "word": "bigoted to fair-mindedness",
+        "chinese": "固执己见的|公正",
+        "look": "1",
+        "id": "27718648",
+        "word_id": "6662"
+    },
+    {
+        "word": "blatant to conspicuous",
+        "chinese": "炫耀的|显眼的",
+        "look": "1",
+        "id": "27718649",
+        "word_id": "6663"
+    },
+    {
+        "word": "boll weevil to cotton",
+        "chinese": "棉铃象虫|棉花（棉铃象虫：寄生于棉苞内破坏棉花）",
+        "look": "1",
+        "id": "27718650",
+        "word_id": "6664"
+    },
+    {
+        "word": "book to writer",
+        "chinese": "书|作者",
+        "look": "1",
+        "id": "27718651",
+        "word_id": "6665"
+    },
+    {
+        "word": "breeze to hurricane",
+        "chinese": "微风|飓风",
+        "look": "1",
+        "id": "27718652",
+        "word_id": "6666"
+    },
+    {
+        "word": "butler to bread",
+        "chinese": "男管家|面包（掌管dining room，包括酒窖和食品储藏室）",
+        "look": "1",
+        "id": "27718653",
+        "word_id": "6667"
+    },
+    {
+        "word": "calibre to firearm",
+        "chinese": "枪口径|便携枪支",
+        "look": "1",
+        "id": "27718654",
+        "word_id": "6668"
+    },
+    {
+        "word": "canyon to gully = lightening to spark",
+        "chinese": "峡谷|沟渠 = 闪电|火花",
+        "look": "1",
+        "id": "27718655",
+        "word_id": "6669"
+    },
+    {
+        "word": "cardiologist to heart = psychiatrist to mind",
+        "chinese": "心脏病专家|心脏 = 心理学家|心里",
+        "look": "1",
+        "id": "27718656",
+        "word_id": "6670"
+    },
+    {
+        "word": "careful to fastidious",
+        "chinese": "细心的|挑剔的",
+        "look": "1",
+        "id": "27718657",
+        "word_id": "6671"
+    },
+    {
+        "word": "careful to meticulous = false to inaccurate",
+        "chinese": "细心的|一丝不苟的=错误的|不正确的",
+        "look": "1",
+        "id": "27718658",
+        "word_id": "6672"
+    },
+    {
+        "word": "celestial to sky = terrestrial to land",
+        "chinese": "天上的|天空=陆地的|陆地",
+        "look": "1",
+        "id": "27718659",
+        "word_id": "6673"
+    },
+    {
+        "word": "cello to viola = tuba to trumpet",
+        "chinese": "大提琴|中提琴=大号|小号",
+        "look": "1",
+        "id": "27718660",
+        "word_id": "6674"
+    },
+    {
+        "word": "chapter to book = course to curriculum",
+        "chinese": "章节|书=课程|全部课程",
+        "look": "1",
+        "id": "27718661",
+        "word_id": "6675"
+    },
+    {
+        "word": "chemistry to alchemy",
+        "chinese": "化学|炼金术（炼金术是中世纪的化学）",
+        "look": "1",
+        "id": "27718662",
+        "word_id": "6676"
+    },
+    {
+        "word": "chisel to  marble = spatula to clay",
+        "chinese": "凿子|大理石=抹刀(批灰刀)|粘土",
+        "look": "1",
+        "id": "27718663",
+        "word_id": "6677"
+    },
+    {
+        "word": "chronicle to events",
+        "chinese": "编年史|事件",
+        "look": "1",
+        "id": "27718664",
+        "word_id": "6678"
+    },
+    {
+        "word": "clam to mollusk = spider is to arachnid",
+        "chinese": "捞蛤|软体动物=蜘蛛|蛛形纲动物",
+        "look": "1",
+        "id": "27718665",
+        "word_id": "6679"
+    },
+    {
+        "word": "clay to vase",
+        "chinese": "粘土|花瓶花瓶是粘土制成的",
+        "look": "1",
+        "id": "27718666",
+        "word_id": "6680"
+    },
+    {
+        "word": "clean to dirt",
+        "chinese": "干净的|尘土（干净的是没有尘土）",
+        "look": "1",
+        "id": "27718667",
+        "word_id": "6681"
+    },
+    {
+        "word": "closet to clothes",
+        "chinese": "衣柜|衣服",
+        "look": "1",
+        "id": "27718668",
+        "word_id": "6682"
+    },
+    {
+        "word": "collage to fragment",
+        "chinese": "拼贴画|碎片",
+        "look": "1",
+        "id": "27718669",
+        "word_id": "6683"
+    },
+    {
+        "word": "compensation to injustice = salary to labor",
+        "chinese": "补偿|不公平=薪水|劳动（不公平需要补偿，劳动需要薪水）",
+        "look": "1",
+        "id": "27718670",
+        "word_id": "6684"
+    },
+    {
+        "word": "composer to arranger",
+        "chinese": "作曲家|编曲家[作曲家创作歌曲，编曲家安排歌曲的用途（迎合特定的乐器或者表演场合）]",
+        "look": "1",
+        "id": "27718671",
+        "word_id": "6685"
+    },
+    {
+        "word": "cooper to barrel",
+        "chinese": "修桶匠|桶",
+        "look": "1",
+        "id": "27718672",
+        "word_id": "6686"
+    },
+    {
+        "word": "courageous is to bravado",
+        "chinese": "勇敢的|逞能",
+        "look": "1",
+        "id": "27718673",
+        "word_id": "6687"
+    },
+    {
+        "word": "courtroom to law = church to religion",
+        "chinese": "法庭|法律=教堂|宗教信仰",
+        "look": "1",
+        "id": "27718674",
+        "word_id": "6688"
+    },
+    {
+        "word": "credence to trust",
+        "chinese": "信任|相信",
+        "look": "1",
+        "id": "27718675",
+        "word_id": "6689"
+    },
+    {
+        "word": "creep to run",
+        "chinese": "爬行|奔跑",
+        "look": "1",
+        "id": "27718676",
+        "word_id": "6690"
+    },
+    {
+        "word": "critic to play = editor to manuscript",
+        "chinese": "评论家|戏剧=编辑|原稿",
+        "look": "1",
+        "id": "27718677",
+        "word_id": "6691"
+    },
+    {
+        "word": "debris to wreckage",
+        "chinese": "残渣|残骸",
+        "look": "1",
+        "id": "27718678",
+        "word_id": "6692"
+    },
+    {
+        "word": "deed is to property",
+        "chinese": "地契|地产",
+        "look": "1",
+        "id": "27718679",
+        "word_id": "6693"
+    },
+    {
+        "word": "democracy to people",
+        "chinese": "民主|人民",
+        "look": "1",
+        "id": "27718680",
+        "word_id": "6694"
+    },
+    {
+        "word": "departure to exodus",
+        "chinese": "离开|大批离开（迁徙)",
+        "look": "1",
+        "id": "27718681",
+        "word_id": "6695"
+    },
+    {
+        "word": "descend to nadir",
+        "chinese": "下降|谷底",
+        "look": "1",
+        "id": "27718682",
+        "word_id": "6696"
+    },
+    {
+        "word": "desecrate to sanctity",
+        "chinese": "亵渎|尊崇",
+        "look": "1",
+        "id": "27718683",
+        "word_id": "6697"
+    },
+    {
+        "word": "desire is to need",
+        "chinese": "欲望|需求",
+        "look": "1",
+        "id": "27718684",
+        "word_id": "6698"
+    },
+    {
+        "word": "dessert to meal = finale to performance",
+        "chinese": "饭后甜点|正餐=尾声|演出",
+        "look": "1",
+        "id": "27718685",
+        "word_id": "6699"
+    },
+    {
+        "word": "diligent to earnestness",
+        "chinese": "勤奋的|认真",
+        "look": "1",
+        "id": "27718686",
+        "word_id": "6700"
+    },
+    {
+        "word": "dark to dim = stormy to windy",
+        "chinese": "漆黑的|昏暗的=暴风雨的|有风的",
+        "look": "1",
+        "id": "27718687",
+        "word_id": "6701"
+    },
+    {
+        "word": "din to sound",
+        "chinese": "喧闹声|声音",
+        "look": "1",
+        "id": "27718688",
+        "word_id": "6702"
+    },
+    {
+        "word": "director to cast",
+        "chinese": "导演|演员阵容",
+        "look": "1",
+        "id": "27718689",
+        "word_id": "6703"
+    },
+    {
+        "word": "disapprove to alibi",
+        "chinese": "不赞成|辩解",
+        "look": "1",
+        "id": "27718690",
+        "word_id": "6704"
+    },
+    {
+        "word": "distasteful to abominable",
+        "chinese": "令人厌恶的|令人憎恶的",
+        "look": "1",
+        "id": "27718691",
+        "word_id": "6705"
+    },
+    {
+        "word": "downpour is to shower",
+        "chinese": "暴雨|淋浴",
+        "look": "1",
+        "id": "27718692",
+        "word_id": "6706"
+    },
+    {
+        "word": "drawstring to sweatpants",
+        "chinese": "拉带|宽松长运动裤",
+        "look": "1",
+        "id": "27718693",
+        "word_id": "6707"
+    },
+    {
+        "word": "drowsy to comatose",
+        "chinese": "昏昏欲睡的|昏迷的",
+        "look": "1",
+        "id": "27718694",
+        "word_id": "6708"
+    },
+    {
+        "word": "effete to vigorous",
+        "chinese": "精疲力竭的|有活力的",
+        "look": "1",
+        "id": "27718695",
+        "word_id": "6709"
+    },
+    {
+        "word": "electricity to lamp",
+        "chinese": "电|灯",
+        "look": "1",
+        "id": "27718696",
+        "word_id": "6710"
+    },
+    {
+        "word": "elongate to prolong",
+        "chinese": "伸长|延长",
+        "look": "1",
+        "id": "27718697",
+        "word_id": "6711"
+    },
+    {
+        "word": "eminent to lowliness = frequent to rarity",
+        "chinese": "杰出的|卑微=频繁|罕见",
+        "look": "1",
+        "id": "27718698",
+        "word_id": "6712"
+    },
+    {
+        "word": "entice to lure",
+        "chinese": "诱使|引诱",
+        "look": "1",
+        "id": "27718699",
+        "word_id": "6713"
+    },
+    {
+        "word": "entrance to house",
+        "chinese": "入口|房子",
+        "look": "1",
+        "id": "27718700",
+        "word_id": "6714"
+    },
+    {
+        "word": "ephemeral to permanent",
+        "chinese": "短暂的|永恒的",
+        "look": "1",
+        "id": "27718701",
+        "word_id": "6715"
+    },
+    {
+        "word": "eternity to time",
+        "chinese": "永恒|时间",
+        "look": "1",
+        "id": "27718702",
+        "word_id": "6716"
+    },
+    {
+        "word": "euphony to sound = euphoria to feeling",
+        "chinese": "悦耳的声音|声音=幸福愉快感|感觉",
+        "look": "1",
+        "id": "27718703",
+        "word_id": "6717"
+    },
+    {
+        "word": "evict to home",
+        "chinese": "逐出|家庭",
+        "look": "1",
+        "id": "27718704",
+        "word_id": "6718"
+    },
+    {
+        "word": "expansion to contraction",
+        "chinese": "扩展|收缩",
+        "look": "1",
+        "id": "27718705",
+        "word_id": "6719"
+    },
+    {
+        "word": "extinguish is to fire = quell to disturbance",
+        "chinese": "消灭|火=平息|骚乱",
+        "look": "1",
+        "id": "27718706",
+        "word_id": "6720"
+    },
+    {
+        "word": "farmer to baker",
+        "chinese": "农民|面包师",
+        "look": "1",
+        "id": "27718707",
+        "word_id": "6721"
+    },
+    {
+        "word": "feed to hunger",
+        "chinese": "喂养|饥饿",
+        "look": "1",
+        "id": "27718708",
+        "word_id": "6722"
+    },
+    {
+        "word": "filibuster to legislation",
+        "chinese": "阻扰法案通过|立法",
+        "look": "1",
+        "id": "27718709",
+        "word_id": "6723"
+    },
+    {
+        "word": "finger is to tactile = nose is to olfactory",
+        "chinese": "手|触觉的=鼻子|嗅觉的",
+        "look": "1",
+        "id": "27718710",
+        "word_id": "6724"
+    },
+    {
+        "word": "flounder to movement = muddle to reasoning",
+        "chinese": "艰难移动|移动=混淆|推理",
+        "look": "1",
+        "id": "27718711",
+        "word_id": "6725"
+    },
+    {
+        "word": "flowery to prose",
+        "chinese": "辞藻华丽的|散文",
+        "look": "1",
+        "id": "27718712",
+        "word_id": "6726"
+    },
+    {
+        "word": "fold to blanket = coil  to rope",
+        "chinese": "折叠|毯子=盘绕|绳子",
+        "look": "1",
+        "id": "27718713",
+        "word_id": "6727"
+    },
+    {
+        "word": "fortitude to courage",
+        "chinese": "勇敢|勇敢",
+        "look": "1",
+        "id": "27718714",
+        "word_id": "6728"
+    },
+    {
+        "word": "frail to emaciated",
+        "chinese": "虚弱的|消瘦的=强壮的|有活力的",
+        "look": "1",
+        "id": "27718715",
+        "word_id": "6729"
+    },
+    {
+        "word": "frugal to cheap",
+        "chinese": "节俭的|便宜的（节俭的人总是买便宜的东西）",
+        "look": "1",
+        "id": "27718716",
+        "word_id": "6730"
+    },
+    {
+        "word": "fur to seal = feather to peacock",
+        "chinese": "毛皮|海豹=羽毛|孔雀",
+        "look": "1",
+        "id": "27718717",
+        "word_id": "6731"
+    },
+    {
+        "word": "glare to light",
+        "chinese": "强光|刺眼",
+        "look": "1",
+        "id": "27718718",
+        "word_id": "6732"
+    },
+    {
+        "word": "glove to gauntlet = hat to helmet",
+        "chinese": "手套|护手甲=帽子|头盔",
+        "look": "1",
+        "id": "27718719",
+        "word_id": "6733"
+    },
+    {
+        "word": "glue to paper = thread to stitch",
+        "chinese": "胶水|纸张=线|缝补",
+        "look": "1",
+        "id": "27718720",
+        "word_id": "6734"
+    },
+    {
+        "word": "gluttony to food = avarice to money",
+        "chinese": "暴饮暴食|食物=贪婪|钱财",
+        "look": "1",
+        "id": "27718721",
+        "word_id": "6735"
+    },
+    {
+        "word": "grammar to syntax = axiom",
+        "chinese": "语法|句法=公理(格言）",
+        "look": "1",
+        "id": "27718722",
+        "word_id": "6736"
+    },
+    {
+        "word": "gregarious to reticent",
+        "chinese": "爱社交的|沉默寡言的",
+        "look": "1",
+        "id": "27718723",
+        "word_id": "6737"
+    },
+    {
+        "word": "grid to lines",
+        "chinese": "网格|线",
+        "look": "1",
+        "id": "27718724",
+        "word_id": "6738"
+    },
+    {
+        "word": "grimace to pain",
+        "chinese": "面部扭曲|疼痛（因为疼痛而面部扭曲）",
+        "look": "1",
+        "id": "27718725",
+        "word_id": "6739"
+    },
+    {
+        "word": "gush to trickle = maelstrom to eddy",
+        "chinese": "涌流|滴流=大漩涡|漩涡",
+        "look": "1",
+        "id": "27718726",
+        "word_id": "6740"
+    },
+    {
+        "word": "haughty to supercilious",
+        "chinese": "傲慢的|高傲的",
+        "look": "1",
+        "id": "27718727",
+        "word_id": "6741"
+    },
+    {
+        "word": "helix is to spring = sphere is to baseball",
+        "chinese": "螺旋状物|弹簧=球体|棒球",
+        "look": "1",
+        "id": "27718728",
+        "word_id": "6742"
+    },
+    {
+        "word": "help to hope",
+        "chinese": "帮助|希望（受到帮助就有了希望）",
+        "look": "1",
+        "id": "27718729",
+        "word_id": "6743"
+    },
+    {
+        "word": "hoe to weed",
+        "chinese": "锄头|草",
+        "look": "1",
+        "id": "27718730",
+        "word_id": "6744"
+    },
+    {
+        "word": "humorous to hilarious",
+        "chinese": "幽默的|令人发笑的",
+        "look": "1",
+        "id": "27718731",
+        "word_id": "6745"
+    },
+    {
+        "word": "hut to mansion",
+        "chinese": "小屋|豪宅",
+        "look": "1",
+        "id": "27718732",
+        "word_id": "6746"
+    },
+    {
+        "word": "hyperbole to understatement",
+        "chinese": "夸张|轻描淡写",
+        "look": "1",
+        "id": "27718733",
+        "word_id": "6747"
+    },
+    {
+        "word": "hypothesis to scientists",
+        "chinese": "假定|科学家",
+        "look": "1",
+        "id": "27718734",
+        "word_id": "6748"
+    },
+    {
+        "word": "impregnable to fortress",
+        "chinese": "无法攻破的|堡垒",
+        "look": "1",
+        "id": "27718735",
+        "word_id": "6749"
+    },
+    {
+        "word": "impulsive to patience = earnest to frivolity",
+        "chinese": "冲动的|耐心=认真|轻浮",
+        "look": "1",
+        "id": "27718736",
+        "word_id": "6750"
+    },
+    {
+        "word": "insatiable is to satisfied",
+        "chinese": "无法满足的|满足的",
+        "look": "1",
+        "id": "27718737",
+        "word_id": "6751"
+    },
+    {
+        "word": "insomnia to sleep",
+        "chinese": "失眠|睡觉",
+        "look": "1",
+        "id": "27718738",
+        "word_id": "6752"
+    },
+    {
+        "word": "intensify to abate",
+        "chinese": "加强|减弱",
+        "look": "1",
+        "id": "27718739",
+        "word_id": "6753"
+    },
+    {
+        "word": "interest to passion",
+        "chinese": "兴趣|激情",
+        "look": "1",
+        "id": "27718740",
+        "word_id": "6754"
+    },
+    {
+        "word": "jabber to talk = skitter to walk",
+        "chinese": "含糊不清的快说|说话=轻快的走|走路",
+        "look": "1",
+        "id": "27718741",
+        "word_id": "6755"
+    },
+    {
+        "word": "joking to serious = insulting to complimentary",
+        "chinese": "开玩笑的|严肃的=侮辱的|表扬的",
+        "look": "1",
+        "id": "27718742",
+        "word_id": "6756"
+    },
+    {
+        "word": "jumbled to objects",
+        "chinese": "混乱的|物体",
+        "look": "1",
+        "id": "27718743",
+        "word_id": "6757"
+    },
+    {
+        "word": "kitten to cat",
+        "chinese": "小猫|猫",
+        "look": "1",
+        "id": "27718744",
+        "word_id": "6758"
+    },
+    {
+        "word": "knotty to difficult",
+        "chinese": "错综复杂的|困难的",
+        "look": "1",
+        "id": "27718745",
+        "word_id": "6759"
+    },
+    {
+        "word": "lake to pond",
+        "chinese": "湖泊|池塘",
+        "look": "1",
+        "id": "27718746",
+        "word_id": "6760"
+    },
+    {
+        "word": "lawn to meadow",
+        "chinese": "草坪|草地",
+        "look": "1",
+        "id": "27718747",
+        "word_id": "6761"
+    },
+    {
+        "word": "lax to meticulous",
+        "chinese": "懒散的|一丝不苟的",
+        "look": "1",
+        "id": "27718748",
+        "word_id": "6762"
+    },
+    {
+        "word": "lens to eye",
+        "chinese": "镜片|眼睛",
+        "look": "1",
+        "id": "27718749",
+        "word_id": "6763"
+    },
+    {
+        "word": "letter to novel",
+        "chinese": "字母|小说",
+        "look": "1",
+        "id": "27718750",
+        "word_id": "6764"
+    },
+    {
+        "word": "letter to write = brush to paint",
+        "chinese": "字母|写=刷子|粉刷",
+        "look": "1",
+        "id": "27718751",
+        "word_id": "6765"
+    },
+    {
+        "word": "letter to writer",
+        "chinese": "字母|作者",
+        "look": "1",
+        "id": "27718752",
+        "word_id": "6766"
+    },
+    {
+        "word": "limerick to humor",
+        "chinese": "幽默短诗|幽默",
+        "look": "1",
+        "id": "27718753",
+        "word_id": "6767"
+    },
+    {
+        "word": "link to chain",
+        "chinese": "环节|链条",
+        "look": "1",
+        "id": "27718754",
+        "word_id": "6768"
+    },
+    {
+        "word": "literate to author",
+        "chinese": "有读写能力的|作者",
+        "look": "1",
+        "id": "27718755",
+        "word_id": "6769"
+    },
+    {
+        "word": "mask to disguise",
+        "chinese": "面具|伪装",
+        "look": "1",
+        "id": "27718756",
+        "word_id": "6770"
+    },
+    {
+        "word": "memorandum to dissertation",
+        "chinese": "备忘录|学术论文",
+        "look": "1",
+        "id": "27718757",
+        "word_id": "6771"
+    },
+    {
+        "word": "menu to food",
+        "chinese": "菜单|事物",
+        "look": "1",
+        "id": "27718758",
+        "word_id": "6772"
+    },
+    {
+        "word": "meter ruler to length",
+        "chinese": "米尺|长度",
+        "look": "1",
+        "id": "27718759",
+        "word_id": "6773"
+    },
+    {
+        "word": "milk to butter",
+        "chinese": "牛奶|黄油",
+        "look": "1",
+        "id": "27718760",
+        "word_id": "6774"
+    },
+    {
+        "word": "mob to person",
+        "chinese": "暴民|普通群众",
+        "look": "1",
+        "id": "27718761",
+        "word_id": "6775"
+    },
+    {
+        "word": "monopoly to competition",
+        "chinese": "垄断|竞争",
+        "look": "1",
+        "id": "27718762",
+        "word_id": "6776"
+    },
+    {
+        "word": "mope to morose",
+        "chinese": "抑郁不乐|郁闷的",
+        "look": "1",
+        "id": "27718763",
+        "word_id": "6777"
+    },
+    {
+        "word": "muffle to sound = dim to light",
+        "chinese": "捂住|声音=模糊|灯光",
+        "look": "1",
+        "id": "27718764",
+        "word_id": "6778"
+    },
+    {
+        "word": "mutinous to defiant",
+        "chinese": "暴动的|反抗的",
+        "look": "1",
+        "id": "27718765",
+        "word_id": "6779"
+    },
+    {
+        "word": "needle to sew = loom to weave",
+        "chinese": "针|缝纫=织布机|编织",
+        "look": "1",
+        "id": "27718766",
+        "word_id": "6780"
+    },
+    {
+        "word": "noxious to harmful",
+        "chinese": "有毒的|有害的",
+        "look": "1",
+        "id": "27718767",
+        "word_id": "6781"
+    },
+    {
+        "word": "obedience is to submissive",
+        "chinese": "顺从|顺从的",
+        "look": "1",
+        "id": "27718768",
+        "word_id": "6782"
+    },
+    {
+        "word": "obese to rotund",
+        "chinese": "肥胖的|圆胖的",
+        "look": "1",
+        "id": "27718769",
+        "word_id": "6783"
+    },
+    {
+        "word": "opaque is to light = impermeable to water",
+        "chinese": "不透明的|灯光=无法渗透的|水",
+        "look": "1",
+        "id": "27718770",
+        "word_id": "6784"
+    },
+    {
+        "word": "overture to opera = introduction to review",
+        "chinese": "前奏曲|歌剧=导论|评论",
+        "look": "1",
+        "id": "27718771",
+        "word_id": "6785"
+    },
+    {
+        "word": "owl to wisdom = ant to diligence",
+        "chinese": "猫头鹰|智慧=蚂蚁|勤奋",
+        "look": "1",
+        "id": "27718772",
+        "word_id": "6786"
+    },
+    {
+        "word": "palatable to delicious",
+        "chinese": "美味的|可口的",
+        "look": "1",
+        "id": "27718773",
+        "word_id": "6787"
+    },
+    {
+        "word": "pane to window",
+        "chinese": "窗格玻璃|窗户",
+        "look": "1",
+        "id": "27718774",
+        "word_id": "6788"
+    },
+    {
+        "word": "paroled to pardoned",
+        "chinese": "假释的|被原谅的",
+        "look": "1",
+        "id": "27718775",
+        "word_id": "6789"
+    },
+    {
+        "word": "patient to doctor",
+        "chinese": "病人|医生",
+        "look": "1",
+        "id": "27718776",
+        "word_id": "6790"
+    },
+    {
+        "word": "patronize to support",
+        "chinese": "赞助|支持",
+        "look": "1",
+        "id": "27718777",
+        "word_id": "6791"
+    },
+    {
+        "word": "pause to action",
+        "chinese": "暂停|行动",
+        "look": "1",
+        "id": "27718778",
+        "word_id": "6792"
+    },
+    {
+        "word": "pecuniary is to money = culinary to cookery",
+        "chinese": "金钱的|钱=烹饪的|烹饪法",
+        "look": "1",
+        "id": "27718779",
+        "word_id": "6793"
+    },
+    {
+        "word": "penalty to injustice",
+        "chinese": "惩罚|不公平",
+        "look": "1",
+        "id": "27718780",
+        "word_id": "6794"
+    },
+    {
+        "word": "person to throng",
+        "chinese": "人|一群人",
+        "look": "1",
+        "id": "27718781",
+        "word_id": "6795"
+    },
+    {
+        "word": "photography to images",
+        "chinese": "摄影|图片",
+        "look": "1",
+        "id": "27718782",
+        "word_id": "6796"
+    },
+    {
+        "word": "piccolo to flute",
+        "chinese": "短笛|长笛",
+        "look": "1",
+        "id": "27718783",
+        "word_id": "6797"
+    },
+    {
+        "word": "pirouette to ballet",
+        "chinese": "（舞蹈)脚尖立地的旋转|芭蕾",
+        "look": "1",
+        "id": "27718784",
+        "word_id": "6798"
+    },
+    {
+        "word": "planet to galaxy",
+        "chinese": "行星|星系",
+        "look": "1",
+        "id": "27718785",
+        "word_id": "6799"
+    },
+    {
+        "word": "planet to solar system",
+        "chinese": "行星|太阳系",
+        "look": "1",
+        "id": "27718786",
+        "word_id": "6800"
+    },
+    {
+        "word": "poacher to game = rustler to cattle",
+        "chinese": "偷猎者|猎物=偷牛贼|牛",
+        "look": "1",
+        "id": "27718787",
+        "word_id": "6801"
+    },
+    {
+        "word": "poetry to literature",
+        "chinese": "诗歌|文学",
+        "look": "1",
+        "id": "27718788",
+        "word_id": "6802"
+    },
+    {
+        "word": "pole to tent = rib to umbrella",
+        "chinese": "支撑用的杆子|帐篷=肋状支撑物|伞",
+        "look": "1",
+        "id": "27718789",
+        "word_id": "6803"
+    },
+    {
+        "word": "policy to opinion",
+        "chinese": "政策|意见",
+        "look": "1",
+        "id": "27718790",
+        "word_id": "6804"
+    },
+    {
+        "word": "poodle to dogs = Hereford to cattle",
+        "chinese": "狮子狗|狗=赫里福种的食用牛|牛",
+        "look": "1",
+        "id": "27718791",
+        "word_id": "6805"
+    },
+    {
+        "word": "potable to water",
+        "chinese": "可饮用的|水",
+        "look": "1",
+        "id": "27718792",
+        "word_id": "6806"
+    },
+    {
+        "word": "presumptive to plausible = fiction to fact",
+        "chinese": "假定的|貌似真实的=虚构作品|事实",
+        "look": "1",
+        "id": "27718793",
+        "word_id": "6807"
+    },
+    {
+        "word": "provision to acceptance",
+        "chinese": "供给|接受",
+        "look": "1",
+        "id": "27718794",
+        "word_id": "6808"
+    },
+    {
+        "word": "prudish to modest",
+        "chinese": "过分守礼的|谦虚的",
+        "look": "1",
+        "id": "27718795",
+        "word_id": "6809"
+    },
+    {
+        "word": "puck to hockey stick",
+        "chinese": "冰球|冰球棒",
+        "look": "1",
+        "id": "27718796",
+        "word_id": "6810"
+    },
+    {
+        "word": "pugnacious to harmonious",
+        "chinese": "好战的|和谐的",
+        "look": "1",
+        "id": "27718797",
+        "word_id": "6811"
+    },
+    {
+        "word": "pungent to flower = poignant to emotion",
+        "chinese": "味道刺鼻的|花=强烈的|感情",
+        "look": "1",
+        "id": "27718798",
+        "word_id": "6812"
+    },
+    {
+        "word": "qualm to misgiving",
+        "chinese": "疑虑|疑虑",
+        "look": "1",
+        "id": "27718799",
+        "word_id": "6813"
+    },
+    {
+        "word": "quarry to stone",
+        "chinese": "采石场|石头",
+        "look": "1",
+        "id": "27718800",
+        "word_id": "6814"
+    },
+    {
+        "word": "radiologist to x-rays = police officer to traffic",
+        "chinese": "放射线研究者|X射线=警官|交通",
+        "look": "1",
+        "id": "27718801",
+        "word_id": "6815"
+    },
+    {
+        "word": "ram to ewe",
+        "chinese": "公羊|母羊",
+        "look": "1",
+        "id": "27718802",
+        "word_id": "6816"
+    },
+    {
+        "word": "rectitude to virtue",
+        "chinese": "正直|道德",
+        "look": "1",
+        "id": "27718803",
+        "word_id": "6817"
+    },
+    {
+        "word": "recurrent to dream",
+        "chinese": "循环发生的|梦",
+        "look": "1",
+        "id": "27718804",
+        "word_id": "6818"
+    },
+    {
+        "word": "reluctant is to eager",
+        "chinese": "不情愿的|渴望的",
+        "look": "1",
+        "id": "27718805",
+        "word_id": "6819"
+    },
+    {
+        "word": "retort to quip = relish to",
+        "chinese": "反驳|俏皮话=享受",
+        "look": "1",
+        "id": "27718806",
+        "word_id": "6820"
+    },
+    {
+        "word": "rung to ladder = pedal to automobile",
+        "chinese": "梯子横档|梯子=脚蹬|汽车",
+        "look": "1",
+        "id": "27718807",
+        "word_id": "6821"
+    },
+    {
+        "word": "rustle to leaf",
+        "chinese": "沙沙作响|树叶",
+        "look": "1",
+        "id": "27718808",
+        "word_id": "6822"
+    },
+    {
+        "word": "sap to plant = blood to animal",
+        "chinese": "树液|植物=血液|动物",
+        "look": "1",
+        "id": "27718809",
+        "word_id": "6823"
+    },
+    {
+        "word": "score to composer = prescription to doctor",
+        "chinese": "乐谱|作曲家=处方|医生",
+        "look": "1",
+        "id": "27718810",
+        "word_id": "6824"
+    },
+    {
+        "word": "sculptor is to bust = painter to portrait",
+        "chinese": "雕刻家|半身像=画家|画像",
+        "look": "1",
+        "id": "27718811",
+        "word_id": "6825"
+    },
+    {
+        "word": "section to orchestra = stanza to poem",
+        "chinese": "章节|管弦乐=诗章|诗歌",
+        "look": "1",
+        "id": "27718812",
+        "word_id": "6826"
+    },
+    {
+        "word": "shell to egg",
+        "chinese": "蛋壳|鸡蛋",
+        "look": "1",
+        "id": "27718813",
+        "word_id": "6827"
+    },
+    {
+        "word": "shelter to protection",
+        "chinese": "庇护所|保护",
+        "look": "1",
+        "id": "27718814",
+        "word_id": "6828"
+    },
+    {
+        "word": "skin to potato = shell to almond",
+        "chinese": "外皮|土豆=外壳|杏仁",
+        "look": "1",
+        "id": "27718815",
+        "word_id": "6829"
+    },
+    {
+        "word": "sleep to doze",
+        "chinese": "睡觉|瞌睡",
+        "look": "1",
+        "id": "27718816",
+        "word_id": "6830"
+    },
+    {
+        "word": "sleep to hibernation",
+        "chinese": "睡觉|冬眠",
+        "look": "1",
+        "id": "27718817",
+        "word_id": "6831"
+    },
+    {
+        "word": "slide to biologist",
+        "chinese": "载物玻璃片|生物学家",
+        "look": "1",
+        "id": "27718818",
+        "word_id": "6832"
+    },
+    {
+        "word": "snack to devour",
+        "chinese": "小吃|狼吞虎咽",
+        "look": "1",
+        "id": "27718819",
+        "word_id": "6833"
+    },
+    {
+        "word": "snowflake to blizzard = breeze to hurricane",
+        "chinese": "雪花|暴雪=微风|飓风",
+        "look": "1",
+        "id": "27718820",
+        "word_id": "6834"
+    },
+    {
+        "word": "sour to lemon",
+        "chinese": "酸的|柠檬",
+        "look": "1",
+        "id": "27718821",
+        "word_id": "6835"
+    },
+    {
+        "word": "specter to tournament",
+        "chinese": "淘汰|锦标赛",
+        "look": "1",
+        "id": "27718822",
+        "word_id": "6836"
+    },
+    {
+        "word": "speedometer to velocity = barometer to pressure",
+        "chinese": "汽车速度表|速度=气压计|气压",
+        "look": "1",
+        "id": "27718823",
+        "word_id": "6837"
+    },
+    {
+        "word": "spontaneous to deliberation = accident to intention",
+        "chinese": "自发的|深思熟虑=偶然的|意图",
+        "look": "1",
+        "id": "27718824",
+        "word_id": "6838"
+    },
+    {
+        "word": "sporadic to regularly",
+        "chinese": "零星的|有规律的",
+        "look": "1",
+        "id": "27718825",
+        "word_id": "6839"
+    },
+    {
+        "word": "star to firmament",
+        "chinese": "星星|天空",
+        "look": "1",
+        "id": "27718826",
+        "word_id": "6840"
+    },
+    {
+        "word": "still life to object = portrait to person",
+        "chinese": "静物画|物体=肖像|人物",
+        "look": "1",
+        "id": "27718827",
+        "word_id": "6841"
+    },
+    {
+        "word": "stitch to wound",
+        "chinese": "缝合|伤口",
+        "look": "1",
+        "id": "27718828",
+        "word_id": "6842"
+    },
+    {
+        "word": "stork to legs",
+        "chinese": "鹳|腿（长）",
+        "look": "1",
+        "id": "27718829",
+        "word_id": "6843"
+    },
+    {
+        "word": "story to floor",
+        "chinese": "楼层|楼层",
+        "look": "1",
+        "id": "27718830",
+        "word_id": "6844"
+    },
+    {
+        "word": "strength to force = craving to",
+        "chinese": "力量|力气=强烈的欲望",
+        "look": "1",
+        "id": "27718831",
+        "word_id": "6845"
+    },
+    {
+        "word": "string is to sweatpants = lace is to shoe",
+        "chinese": "细绳|宽松长运动裤=鞋带|鞋子",
+        "look": "1",
+        "id": "27718832",
+        "word_id": "6846"
+    },
+    {
+        "word": "strongbox is to money = suitcase is to luggage",
+        "chinese": "保险柜|钱=行李箱|行李",
+        "look": "1",
+        "id": "27718833",
+        "word_id": "6847"
+    },
+    {
+        "word": "surgeon to hospital = coroner to morgue",
+        "chinese": "外科医生|医院=验尸官|陈尸所",
+        "look": "1",
+        "id": "27718834",
+        "word_id": "6848"
+    },
+    {
+        "word": "surrogate is to substitute = risk to danger",
+        "chinese": "代替|代替=冒险|危险",
+        "look": "1",
+        "id": "27718835",
+        "word_id": "6849"
+    },
+    {
+        "word": "syntax to sentence = survey to number",
+        "chinese": "句法|句子=调查|数字",
+        "look": "1",
+        "id": "27718836",
+        "word_id": "6850"
+    },
+    {
+        "word": "table to altar",
+        "chinese": "桌子|祭坛",
+        "look": "1",
+        "id": "27718837",
+        "word_id": "6851"
+    },
+    {
+        "word": "talkative is to verbalize",
+        "chinese": "健谈的|用言语表达",
+        "look": "1",
+        "id": "27718838",
+        "word_id": "6852"
+    },
+    {
+        "word": "tamper to amend",
+        "chinese": "修改|修订",
+        "look": "1",
+        "id": "27718839",
+        "word_id": "6853"
+    },
+    {
+        "word": "tarry to loiter",
+        "chinese": "逗留|闲逛",
+        "look": "1",
+        "id": "27718840",
+        "word_id": "6854"
+    },
+    {
+        "word": "taxi to bus",
+        "chinese": "的士|公共汽车",
+        "look": "1",
+        "id": "27718841",
+        "word_id": "6855"
+    },
+    {
+        "word": "teacher to assignment",
+        "chinese": "老师|作业",
+        "look": "1",
+        "id": "27718842",
+        "word_id": "6856"
+    },
+    {
+        "word": "thesaurus to words = bibliography to titles",
+        "chinese": "分类词汇汇编|词汇=参考书目|题目",
+        "look": "1",
+        "id": "27718843",
+        "word_id": "6857"
+    },
+    {
+        "word": "thesis to essay",
+        "chinese": "长篇论文|论述文",
+        "look": "1",
+        "id": "27718844",
+        "word_id": "6858"
+    },
+    {
+        "word": "timorous to craven = sturdy to strong",
+        "chinese": "胆小的|懦弱的=强壮的|强壮的",
+        "look": "1",
+        "id": "27718845",
+        "word_id": "6859"
+    },
+    {
+        "word": "tonsil to throat = thyroid to gland",
+        "chinese": "扁桃体|喉咙=甲状腺|腺",
+        "look": "1",
+        "id": "27718846",
+        "word_id": "6860"
+    },
+    {
+        "word": "torque to twist = gravity to pull",
+        "chinese": "扭力|扭曲=地心引力|拉",
+        "look": "1",
+        "id": "27718847",
+        "word_id": "6861"
+    },
+    {
+        "word": "tractor to famer",
+        "chinese": "拖拉机|农民",
+        "look": "1",
+        "id": "27718848",
+        "word_id": "6862"
+    },
+    {
+        "word": "tree to bark = body to skin",
+        "chinese": "树|树皮=身体|皮肤",
+        "look": "1",
+        "id": "27718849",
+        "word_id": "6863"
+    },
+    {
+        "word": "nonfiction to biography",
+        "chinese": "纪实文学|自传",
+        "look": "1",
+        "id": "27718850",
+        "word_id": "6864"
+    },
+    {
+        "word": "unquenchable to satisfied",
+        "chinese": "无法满足的|满足的",
+        "look": "1",
+        "id": "27718851",
+        "word_id": "6865"
+    },
+    {
+        "word": "urbanity to bumpkin",
+        "chinese": "都市人|乡巴佬",
+        "look": "1",
+        "id": "27718852",
+        "word_id": "6866"
+    },
+    {
+        "word": "vegetarians to meat = pacifist to violence",
+        "chinese": "素食主义者|肉=和平主义者|暴力",
+        "look": "1",
+        "id": "27718853",
+        "word_id": "6867"
+    },
+    {
+        "word": "vestment to garment = cassock to",
+        "chinese": "教士的法衣|长袍=黑教士服|",
+        "look": "1",
+        "id": "27718854",
+        "word_id": "6868"
+    },
+    {
+        "word": "veteran to soldier",
+        "chinese": "退伍军人|士兵",
+        "look": "1",
+        "id": "27718855",
+        "word_id": "6869"
+    },
+    {
+        "word": "vitality to life",
+        "chinese": "活力|生命",
+        "look": "1",
+        "id": "27718856",
+        "word_id": "6870"
+    },
+    {
+        "word": "vocabulary to language",
+        "chinese": "词汇|语言",
+        "look": "1",
+        "id": "27718857",
+        "word_id": "6871"
+    },
+    {
+        "word": "voice to megaphone",
+        "chinese": "声音|扩音器",
+        "look": "1",
+        "id": "27718858",
+        "word_id": "6872"
+    },
+    {
+        "word": "waiter is to chef = store to factory",
+        "chinese": "服务员|厨师=商店|工厂",
+        "look": "1",
+        "id": "27718859",
+        "word_id": "6873"
+    },
+    {
+        "word": "water is to liquid = iron is to metal",
+        "chinese": "水|液体=铁|金属",
+        "look": "1",
+        "id": "27718860",
+        "word_id": "6874"
+    },
+    {
+        "word": "whirlpool to water",
+        "chinese": "漩涡|水",
+        "look": "1",
+        "id": "27718861",
+        "word_id": "6875"
+    },
+    {
+        "word": "whisper to bellow",
+        "chinese": "窃窃私语|咆哮",
+        "look": "1",
+        "id": "27718862",
+        "word_id": "6876"
+    },
+    {
+        "word": "wick to candle = filament to bulb",
+        "chinese": "烛芯|蜡烛=灯丝|灯泡",
+        "look": "1",
+        "id": "27718863",
+        "word_id": "6877"
+    },
+    {
+        "word": "wily to shrewd",
+        "chinese": "狡猾的|精明的",
+        "look": "1",
+        "id": "27718864",
+        "word_id": "6878"
+    },
+    {
+        "word": "witness to crime",
+        "chinese": "目击者|犯罪",
+        "look": "1",
+        "id": "27718865",
+        "word_id": "6879"
+    },
+    {
+        "word": "wood to carpenter",
+        "chinese": "木材|木匠",
+        "look": "1",
+        "id": "27718866",
+        "word_id": "6880"
+    },
+    {
+        "word": "zany to buffoon",
+        "chinese": "滑稽的|丑角",
+        "look": "1",
+        "id": "27718867",
+        "word_id": "6881"
+    }
+]

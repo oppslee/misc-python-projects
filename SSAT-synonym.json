@@ -1,0 +1,4727 @@
+[
+    {
+        "word": "abase",
+        "chinese": "【动】使（地位、身份等）降低，屈辱",
+        "look": "1",
+        "id": "27732464",
+        "word_id": "3438"
+    },
+    {
+        "word": "aberrant",
+        "chinese": "【形】脱离常规的/【名】反常的人",
+        "look": "1",
+        "id": "27732465",
+        "word_id": "3190"
+    },
+    {
+        "word": "abet",
+        "chinese": "【动】教唆（犯罪），怂恿",
+        "look": "1",
+        "id": "27732466",
+        "word_id": "3440"
+    },
+    {
+        "word": "abhor",
+        "chinese": "【动】憎恶，讨厌",
+        "look": "1",
+        "id": "27732467",
+        "word_id": "6882"
+    },
+    {
+        "word": "abhorrent",
+        "chinese": "【形】令人讨厌的",
+        "look": "1",
+        "id": "27732468",
+        "word_id": "6883"
+    },
+    {
+        "word": "abject",
+        "chinese": "【形】1.（境况）凄惨的；绝望的 2. 卑躬屈膝的",
+        "look": "1",
+        "id": "27732469",
+        "word_id": "2653"
+    },
+    {
+        "word": "abounding",
+        "chinese": "【形】充满的，富于的：teeming",
+        "look": "1",
+        "id": "27732470",
+        "word_id": "6884"
+    },
+    {
+        "word": "abstain",
+        "chinese": "vi.戒(尤指酒)，戒除",
+        "look": "1",
+        "id": "27732471",
+        "word_id": "5208"
+    },
+    {
+        "word": "abstemious",
+        "chinese": "【形】（生活、吃饭、饮酒方面）有节制的",
+        "look": "1",
+        "id": "27732472",
+        "word_id": "505"
+    },
+    {
+        "word": "abstinent",
+        "chinese": "【形】1. 饮食有度的；2. 禁欲的",
+        "look": "1",
+        "id": "27732473",
+        "word_id": "4980"
+    },
+    {
+        "word": "abyss",
+        "chinese": "【释义】n. a large deep hole that appears to have no bottom 深渊",
+        "look": "1",
+        "id": "27732474",
+        "word_id": "3454"
+    },
+    {
+        "word": "acclamation",
+        "chinese": "【名】欢呼，喝彩：approval  /praise / assent",
+        "look": "1",
+        "id": "27732475",
+        "word_id": "2217"
+    },
+    {
+        "word": "accolade",
+        "chinese": "【名】1. 嘉奖；2. 骑士爵位授予礼",
+        "look": "1",
+        "id": "27732476",
+        "word_id": "3461"
+    },
+    {
+        "word": "accumulate",
+        "chinese": "【动】堆积，积累",
+        "look": "1",
+        "id": "27732477",
+        "word_id": "1279"
+    },
+    {
+        "word": "acoustic",
+        "chinese": "【形】声学的，听觉的",
+        "look": "1",
+        "id": "27732478",
+        "word_id": "6273"
+    },
+    {
+        "word": "activate",
+        "chinese": "【动】使活泼，激活",
+        "look": "1",
+        "id": "27732479",
+        "word_id": "6885"
+    },
+    {
+        "word": "adage",
+        "chinese": "【名】谚语，格言",
+        "look": "1",
+        "id": "27732480",
+        "word_id": "3473"
+    },
+    {
+        "word": "adamant",
+        "chinese": "【形】坚硬无比的；坚定不移的/【名】坚硬的物质",
+        "look": "1",
+        "id": "27732481",
+        "word_id": "1290"
+    },
+    {
+        "word": "adhere",
+        "chinese": "【动】粘附，附着",
+        "look": "1",
+        "id": "27732482",
+        "word_id": "6411"
+    },
+    {
+        "word": "adjudication",
+        "chinese": "【名】（法院的）宣告、判决",
+        "look": "1",
+        "id": "27732483",
+        "word_id": "6886"
+    },
+    {
+        "word": "admonish",
+        "chinese": "【动】（温和地）责备，轻轻训诫",
+        "look": "1",
+        "id": "27732484",
+        "word_id": "6412"
+    },
+    {
+        "word": "adoral",
+        "chinese": "【形】口部附近的",
+        "look": "1",
+        "id": "27732485",
+        "word_id": "6887"
+    },
+    {
+        "word": "adore",
+        "chinese": "【动】爱慕",
+        "look": "1",
+        "id": "27732486",
+        "word_id": "6888"
+    },
+    {
+        "word": "adorn",
+        "chinese": "vt.装饰;佩带",
+        "look": "1",
+        "id": "27732487",
+        "word_id": "1443"
+    },
+    {
+        "word": "affable",
+        "chinese": "friendly, good-natured, or easy to talk to adj. 和蔼可亲的",
+        "look": "1",
+        "id": "27732488",
+        "word_id": "513"
+    },
+    {
+        "word": "affinity",
+        "chinese": "【名】喜爱，倾向",
+        "look": "1",
+        "id": "27732489",
+        "word_id": "1543"
+    },
+    {
+        "word": "aggravate",
+        "chinese": "【动】使恶化，加重",
+        "look": "1",
+        "id": "27732490",
+        "word_id": "4940"
+    },
+    {
+        "word": "aggressive",
+        "chinese": "adj. 好斗的，有侵略性的；有进取心的behaving in an angry, threatening way, as if you want to fight or attack someone; very determined to succeed or get what you want",
+        "look": "1",
+        "id": "27732491",
+        "word_id": "1212"
+    },
+    {
+        "word": "akin",
+        "chinese": "【形】1. 相似的；2. 有血缘关系的",
+        "look": "1",
+        "id": "27732492",
+        "word_id": "6416"
+    },
+    {
+        "word": "alias",
+        "chinese": "【名】别名，化名",
+        "look": "1",
+        "id": "27732493",
+        "word_id": "3497"
+    },
+    {
+        "word": "aliment",
+        "chinese": "【名】食物，滋养品 ",
+        "look": "1",
+        "id": "27732494",
+        "word_id": "6889"
+    },
+    {
+        "word": "allay",
+        "chinese": "vt.减轻，缓和",
+        "look": "1",
+        "id": "27732495",
+        "word_id": "4963"
+    },
+    {
+        "word": "alleviate",
+        "chinese": "vt.减轻，缓解，缓和",
+        "look": "1",
+        "id": "27732496",
+        "word_id": "2315"
+    },
+    {
+        "word": "allude",
+        "chinese": "【动】暗示，间接提及",
+        "look": "1",
+        "id": "27732497",
+        "word_id": "5190"
+    },
+    {
+        "word": "allure",
+        "chinese": "n.吸引力， 诱惑，魅力the quality of being attractive and exciting",
+        "look": "1",
+        "id": "27732498",
+        "word_id": "3504"
+    },
+    {
+        "word": "aloof",
+        "chinese": "adj.冷淡的，疏远的，淡漠的",
+        "look": "1",
+        "id": "27732499",
+        "word_id": "2783"
+    },
+    {
+        "word": "altercation",
+        "chinese": "【名】争论，口角：disagreement",
+        "look": "1",
+        "id": "27732500",
+        "word_id": "7"
+    },
+    {
+        "word": "altruism",
+        "chinese": "【名】利他主义：【反】egoism（自我主义）",
+        "look": "1",
+        "id": "27732501",
+        "word_id": "1880"
+    },
+    {
+        "word": "amicable",
+        "chinese": "【形】友好的，温和的",
+        "look": "1",
+        "id": "27732502",
+        "word_id": "4972"
+    },
+    {
+        "word": "amnesty",
+        "chinese": "【名】赦免：pardon",
+        "look": "1",
+        "id": "27732503",
+        "word_id": "3513"
+    },
+    {
+        "word": "amorous",
+        "chinese": "adj.多情的，爱情的",
+        "look": "1",
+        "id": "27732504",
+        "word_id": "3515"
+    },
+    {
+        "word": "analogous",
+        "chinese": "adj.相似的，可比拟的",
+        "look": "1",
+        "id": "27732505",
+        "word_id": "5232"
+    },
+    {
+        "word": "analysis",
+        "chinese": "【名】分析；诊断：diagnosis",
+        "look": "1",
+        "id": "27732506",
+        "word_id": "6890"
+    },
+    {
+        "word": "anesthetic",
+        "chinese": "adj.麻醉的 n.麻醉剂",
+        "look": "1",
+        "id": "27732507",
+        "word_id": "3524"
+    },
+    {
+        "word": "animate",
+        "chinese": "【动】使有生命/【形】有生命的、生气勃勃的 ",
+        "look": "1",
+        "id": "27732508",
+        "word_id": "6891"
+    },
+    {
+        "word": "annotation",
+        "chinese": "【名】注解，注释",
+        "look": "1",
+        "id": "27732509",
+        "word_id": "6892"
+    },
+    {
+        "word": "annoy",
+        "chinese": "【动】1. 打扰、干扰；2. 使烦恼、使恼怒",
+        "look": "1",
+        "id": "27732510",
+        "word_id": "6893"
+    },
+    {
+        "word": "anonym",
+        "chinese": "【名】无名氏，匿名者",
+        "look": "1",
+        "id": "27732511",
+        "word_id": "6894"
+    },
+    {
+        "word": "anonymity",
+        "chinese": "the quality or state of being unknown to most people: the quality or state of being anonymous n. 匿名",
+        "look": "1",
+        "id": "27732512",
+        "word_id": "529"
+    },
+    {
+        "word": "antiquated",
+        "chinese": "【形】陈旧的，古老的：aged",
+        "look": "1",
+        "id": "27732513",
+        "word_id": "3018"
+    },
+    {
+        "word": "antique",
+        "chinese": "【名】古董，古物/【形】古董的",
+        "look": "1",
+        "id": "27732514",
+        "word_id": "6895"
+    },
+    {
+        "word": "apparatus",
+        "chinese": "【名】（运动）器械；装置，仪器 ",
+        "look": "1",
+        "id": "27732515",
+        "word_id": "3542"
+    },
+    {
+        "word": "apparel",
+        "chinese": "【名】衣服，服装 ",
+        "look": "1",
+        "id": "27732516",
+        "word_id": "6896"
+    },
+    {
+        "word": "appease",
+        "chinese": "【动】平息，安抚：soothe",
+        "look": "1",
+        "id": "27732517",
+        "word_id": "1536"
+    },
+    {
+        "word": "appendix",
+        "chinese": "【名】1. 附录；2. 阑尾",
+        "look": "1",
+        "id": "27732518",
+        "word_id": "6897"
+    },
+    {
+        "word": "appliance",
+        "chinese": "【名】器具，器械，装置",
+        "look": "1",
+        "id": "27732519",
+        "word_id": "6249"
+    },
+    {
+        "word": "apprehensive",
+        "chinese": "adj.疑惧的，害怕的",
+        "look": "1",
+        "id": "27732520",
+        "word_id": "6425"
+    },
+    {
+        "word": "appropriate",
+        "chinese": "【形】恰当的；【动】挪用、盗用（资金）",
+        "look": "1",
+        "id": "27732521",
+        "word_id": "3166"
+    },
+    {
+        "word": "approving",
+        "chinese": "【形】认可的，满意的",
+        "look": "1",
+        "id": "27732522",
+        "word_id": "6898"
+    },
+    {
+        "word": "archaic",
+        "chinese": "【形】古代的、陈旧的：old fashioned / antiquated",
+        "look": "1",
+        "id": "27732523",
+        "word_id": "1906"
+    },
+    {
+        "word": "ascetic",
+        "chinese": "adj.禁欲的，苦行的，克己的 n.苦行者，禁欲者",
+        "look": "1",
+        "id": "27732524",
+        "word_id": "2294"
+    },
+    {
+        "word": "asperse",
+        "chinese": "【动】损害（名誉），中伤 ",
+        "look": "1",
+        "id": "27732525",
+        "word_id": "6899"
+    },
+    {
+        "word": "asphyxiate",
+        "chinese": "【动】使窒息 ",
+        "look": "1",
+        "id": "27732526",
+        "word_id": "6900"
+    },
+    {
+        "word": "assail",
+        "chinese": "【动】1. 攻击；2. 困扰",
+        "look": "1",
+        "id": "27732527",
+        "word_id": "3172"
+    },
+    {
+        "word": "assault",
+        "chinese": "【动】【名】攻击，袭击",
+        "look": "1",
+        "id": "27732528",
+        "word_id": "6901"
+    },
+    {
+        "word": "assemble",
+        "chinese": "【动】1. 集合；2. 装配，组合",
+        "look": "1",
+        "id": "27732529",
+        "word_id": "5513"
+    },
+    {
+        "word": "assuage",
+        "chinese": "to lessen the intensity of (something that pains or distresses) v. 缓和，减轻;平息",
+        "look": "1",
+        "id": "27732530",
+        "word_id": "544"
+    },
+    {
+        "word": "asteroid",
+        "chinese": "【释义】n. any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter 小行星",
+        "look": "1",
+        "id": "27732531",
+        "word_id": "3572"
+    },
+    {
+        "word": "astute",
+        "chinese": "adj.机敏的，精明的",
+        "look": "1",
+        "id": "27732532",
+        "word_id": "1838"
+    },
+    {
+        "word": "atonement",
+        "chinese": "【名】1. 弥补，赎罪；2.（耶稣的苦难和死促成的）上帝与人的和好",
+        "look": "1",
+        "id": "27732533",
+        "word_id": "21"
+    },
+    {
+        "word": "attire",
+        "chinese": "【名】服装，衣着/【动】使穿上衣服",
+        "look": "1",
+        "id": "27732534",
+        "word_id": "6902"
+    },
+    {
+        "word": "attribute",
+        "chinese": "【动】归于/【名】属性，特征：characteristic",
+        "look": "1",
+        "id": "27732535",
+        "word_id": "3585"
+    },
+    {
+        "word": "augment",
+        "chinese": "【动】扩大，增强：add to ",
+        "look": "1",
+        "id": "27732536",
+        "word_id": "3589"
+    },
+    {
+        "word": "auspicious",
+        "chinese": "conducive to success; favorable adj. 有利的 giving or being a sign of future success adj. 吉利的",
+        "look": "1",
+        "id": "27732537",
+        "word_id": "548"
+    },
+    {
+        "word": "austere",
+        "chinese": "adj.朴素的，无装饰的，苦行的",
+        "look": "1",
+        "id": "27732538",
+        "word_id": "1381"
+    },
+    {
+        "word": "authentic",
+        "chinese": "【形】真实的",
+        "look": "1",
+        "id": "27732539",
+        "word_id": "6903"
+    },
+    {
+        "word": "authoritarian",
+        "chinese": "adj.权力主义的，专制的 n.权力主义者，专制者，独裁者",
+        "look": "1",
+        "id": "27732540",
+        "word_id": "2796"
+    },
+    {
+        "word": "authority",
+        "chinese": "【名】1. 官方，当局；2. 权威，专家",
+        "look": "1",
+        "id": "27732541",
+        "word_id": "6904"
+    },
+    {
+        "word": "babble",
+        "chinese": "【动】1. 胡言乱语；2. （水流过岩石）潺潺作响",
+        "look": "1",
+        "id": "27732542",
+        "word_id": "5210"
+    },
+    {
+        "word": "badger",
+        "chinese": "【名】獾/【动】纠缠不休，烦扰",
+        "look": "1",
+        "id": "27732543",
+        "word_id": "3603"
+    },
+    {
+        "word": "bane",
+        "chinese": "【名】1. 诛杀；2. 伤害，毁灭：miserable affliction",
+        "look": "1",
+        "id": "27732544",
+        "word_id": "26"
+    },
+    {
+        "word": "barefaced",
+        "chinese": "【形】厚颜无耻的，露骨的 ",
+        "look": "1",
+        "id": "27732545",
+        "word_id": "6905"
+    },
+    {
+        "word": "barrage",
+        "chinese": "【名】火力掩护",
+        "look": "1",
+        "id": "27732546",
+        "word_id": "1731"
+    },
+    {
+        "word": "barrier",
+        "chinese": "【名】障碍， 栅栏",
+        "look": "1",
+        "id": "27732547",
+        "word_id": "6428"
+    },
+    {
+        "word": "barter",
+        "chinese": "v.作物物交换，以货换货 n.物物交换，易货",
+        "look": "1",
+        "id": "27732548",
+        "word_id": "1669"
+    },
+    {
+        "word": "bedlam",
+        "chinese": "【名】1. 疯人院；2. 吵闹混乱的地方",
+        "look": "1",
+        "id": "27732549",
+        "word_id": "6906"
+    },
+    {
+        "word": "bellicose",
+        "chinese": "adj.好战的;好争吵的;好斗的",
+        "look": "1",
+        "id": "27732550",
+        "word_id": "2527"
+    },
+    {
+        "word": "belligerent",
+        "chinese": "【形】交战的，好战的",
+        "look": "1",
+        "id": "27732551",
+        "word_id": "2975"
+    },
+    {
+        "word": "benign",
+        "chinese": "adj.善良的，温和的",
+        "look": "1",
+        "id": "27732552",
+        "word_id": "2526"
+    },
+    {
+        "word": "berate",
+        "chinese": "【动】呵斥，严厉指责",
+        "look": "1",
+        "id": "27732553",
+        "word_id": "5067"
+    },
+    {
+        "word": "besmirch",
+        "chinese": "【动】玷污，糟蹋（名誉）",
+        "look": "1",
+        "id": "27732554",
+        "word_id": "5051"
+    },
+    {
+        "word": "bestow",
+        "chinese": "【动】授予，赠给",
+        "look": "1",
+        "id": "27732555",
+        "word_id": "2288"
+    },
+    {
+        "word": "bigot",
+        "chinese": "【名】抱偏见的人，心胸狭窄的人 ",
+        "look": "1",
+        "id": "27732556",
+        "word_id": "1385"
+    },
+    {
+        "word": "bind",
+        "chinese": "【动】捆绑；约束；使结合",
+        "look": "1",
+        "id": "27732557",
+        "word_id": "6907"
+    },
+    {
+        "word": "blatant",
+        "chinese": "【形】喧嚣的，俗丽的",
+        "look": "1",
+        "id": "27732558",
+        "word_id": "6436"
+    },
+    {
+        "word": "blithely",
+        "chinese": "【形】愉快的，悠然自得的",
+        "look": "1",
+        "id": "27732559",
+        "word_id": "5840"
+    },
+    {
+        "word": "boisterous",
+        "chinese": "【形】热闹的",
+        "look": "1",
+        "id": "27732560",
+        "word_id": "1416"
+    },
+    {
+        "word": "bond",
+        "chinese": "【名】1. 关联，结合；2. 契约，票据/【动】使粘结，使结合",
+        "look": "1",
+        "id": "27732561",
+        "word_id": "6908"
+    },
+    {
+        "word": "bother",
+        "chinese": "【动】烦扰、打扰 ",
+        "look": "1",
+        "id": "27732562",
+        "word_id": "6909"
+    },
+    {
+        "word": "brassy",
+        "chinese": "【形】1. 像黄铜的；2. 厚脸皮的",
+        "look": "1",
+        "id": "27732563",
+        "word_id": "6910"
+    },
+    {
+        "word": "bravado",
+        "chinese": "【名】1. 虚张声势；2. 有勇无谋",
+        "look": "1",
+        "id": "27732564",
+        "word_id": "2049"
+    },
+    {
+        "word": "brawl",
+        "chinese": "【名】【动】吵架，打架",
+        "look": "1",
+        "id": "27732565",
+        "word_id": "6442"
+    },
+    {
+        "word": "brazen",
+        "chinese": "adj.无耻的，无礼的",
+        "look": "1",
+        "id": "27732566",
+        "word_id": "3229"
+    },
+    {
+        "word": "breach",
+        "chinese": "【名】【动】破坏，违反：rupture",
+        "look": "1",
+        "id": "27732567",
+        "word_id": "1303"
+    },
+    {
+        "word": "bristle",
+        "chinese": "【名】短硬毛/【动】1. 毛发直立；2. 显露愤怒",
+        "look": "1",
+        "id": "27732568",
+        "word_id": "6911"
+    },
+    {
+        "word": "broach",
+        "chinese": "【动】提出讨论/【名】尖型工具（如烤肉用的炙叉）",
+        "look": "1",
+        "id": "27732569",
+        "word_id": "38"
+    },
+    {
+        "word": "bug",
+        "chinese": "【动】1. 烦扰；2. 装置窃听器/【名】1. 虫；2. 窃听器 ",
+        "look": "1",
+        "id": "27732570",
+        "word_id": "6912"
+    },
+    {
+        "word": "calamity",
+        "chinese": "【释义】n. an event causing great and often sudden damage or distress; a disaster 灾难，灾祸",
+        "look": "1",
+        "id": "27732571",
+        "word_id": "1462"
+    },
+    {
+        "word": "candor",
+        "chinese": "【名】坦率，真诚：frankness",
+        "look": "1",
+        "id": "27732572",
+        "word_id": "2776"
+    },
+    {
+        "word": "canvass",
+        "chinese": "【动】1. （政治）游说；2. 调查（选民的）意见",
+        "look": "1",
+        "id": "27732573",
+        "word_id": "2990"
+    },
+    {
+        "word": "capacious",
+        "chinese": "【形】广阔的，容量大的",
+        "look": "1",
+        "id": "27732574",
+        "word_id": "3682"
+    },
+    {
+        "word": "capsize",
+        "chinese": "【动】弄翻，倾覆：overturn",
+        "look": "1",
+        "id": "27732575",
+        "word_id": "6913"
+    },
+    {
+        "word": "carcass",
+        "chinese": "【名】1. （动物的）尸体；2. 残骸",
+        "look": "1",
+        "id": "27732576",
+        "word_id": "5369"
+    },
+    {
+        "word": "cassock",
+        "chinese": "【名】（教士穿的黑色或红色的）长袍  ",
+        "look": "1",
+        "id": "27732577",
+        "word_id": "6914"
+    },
+    {
+        "word": "castigate",
+        "chinese": "vt.严厉责骂、批评或惩罚(某人)",
+        "look": "1",
+        "id": "27732578",
+        "word_id": "564"
+    },
+    {
+        "word": "cataract",
+        "chinese": "【名】1. 大瀑布；2. 白内障",
+        "look": "1",
+        "id": "27732579",
+        "word_id": "3695"
+    },
+    {
+        "word": "catastrophe",
+        "chinese": "【释义】n. an event that causes a lot of damage or makes a lot of people suffer: DISASTER 灾难；灾祸；大灾难",
+        "look": "1",
+        "id": "27732580",
+        "word_id": "5027"
+    },
+    {
+        "word": "cede",
+        "chinese": "【动】让给，割让",
+        "look": "1",
+        "id": "27732581",
+        "word_id": "3705"
+    },
+    {
+        "word": "censor",
+        "chinese": "n.(书刊、电影等的)审查员，审查官;信件检查员",
+        "look": "1",
+        "id": "27732582",
+        "word_id": "3156"
+    },
+    {
+        "word": "censure",
+        "chinese": "express severe disapproval of (someone or something), typically in a formal statement n. 谴责",
+        "look": "1",
+        "id": "27732583",
+        "word_id": "568"
+    },
+    {
+        "word": "certify",
+        "chinese": "【动】证明：confirm officially",
+        "look": "1",
+        "id": "27732584",
+        "word_id": "6172"
+    },
+    {
+        "word": "chasm",
+        "chinese": "【名】1. 裂缝；2. 分歧，差别 ",
+        "look": "1",
+        "id": "27732585",
+        "word_id": "48"
+    },
+    {
+        "word": "cheeky",
+        "chinese": "【形】无礼的，厚颜无耻的",
+        "look": "1",
+        "id": "27732586",
+        "word_id": "6915"
+    },
+    {
+        "word": "choke",
+        "chinese": "【动】使窒息",
+        "look": "1",
+        "id": "27732587",
+        "word_id": "5372"
+    },
+    {
+        "word": "circumference",
+        "chinese": "【名】圆周，周围：distant around",
+        "look": "1",
+        "id": "27732588",
+        "word_id": "6916"
+    },
+    {
+        "word": "clamor",
+        "chinese": "【名】【动】喧哗，喧闹；大声的要求或抗议",
+        "look": "1",
+        "id": "27732589",
+        "word_id": "5118"
+    },
+    {
+        "word": "clan",
+        "chinese": "【名】1. 宗族，氏族；2. 团体",
+        "look": "1",
+        "id": "27732590",
+        "word_id": "5770"
+    },
+    {
+        "word": "clique",
+        "chinese": "【名】（有共同利益的）小团体，派系",
+        "look": "1",
+        "id": "27732591",
+        "word_id": "3741"
+    },
+    {
+        "word": "cluster",
+        "chinese": "【名】（果实、花等的）串，簇",
+        "look": "1",
+        "id": "27732592",
+        "word_id": "5497"
+    },
+    {
+        "word": "coincide",
+        "chinese": "【动】一致，符合：concur",
+        "look": "1",
+        "id": "27732593",
+        "word_id": "6917"
+    },
+    {
+        "word": "collaborate",
+        "chinese": "【动】1. 合作；2. 通敌，勾结",
+        "look": "1",
+        "id": "27732594",
+        "word_id": "1258"
+    },
+    {
+        "word": "collateral",
+        "chinese": "【形】间接相关的；次要的",
+        "look": "1",
+        "id": "27732595",
+        "word_id": "3754"
+    },
+    {
+        "word": "combatant",
+        "chinese": "【形】战斗的，搏斗的/【名】战斗员，格斗者 ",
+        "look": "1",
+        "id": "27732596",
+        "word_id": "6918"
+    },
+    {
+        "word": "combative",
+        "chinese": "【形】好斗的，好争论的",
+        "look": "1",
+        "id": "27732597",
+        "word_id": "3084"
+    },
+    {
+        "word": "compel",
+        "chinese": "【动】强迫，使不得不",
+        "look": "1",
+        "id": "27732598",
+        "word_id": "5476"
+    },
+    {
+        "word": "complacent",
+        "chinese": "satisfied with how things are and not wanting to change them adj. 自满的，自鸣得意的",
+        "look": "1",
+        "id": "27732599",
+        "word_id": "594"
+    },
+    {
+        "word": "complaisant",
+        "chinese": "【形】殷勤的，讨好的",
+        "look": "1",
+        "id": "27732600",
+        "word_id": "3764"
+    },
+    {
+        "word": "compliance",
+        "chinese": "n.服从，听从，顺从",
+        "look": "1",
+        "id": "27732601",
+        "word_id": "6459"
+    },
+    {
+        "word": "compliant",
+        "chinese": "【形】遵从的，顺从的 ",
+        "look": "1",
+        "id": "27732602",
+        "word_id": "2028"
+    },
+    {
+        "word": "complimentary",
+        "chinese": "【形】赞美的",
+        "look": "1",
+        "id": "27732603",
+        "word_id": "1260"
+    },
+    {
+        "word": "composure",
+        "chinese": "n.镇静，沉着",
+        "look": "1",
+        "id": "27732604",
+        "word_id": "4906"
+    },
+    {
+        "word": "concede",
+        "chinese": "v.承认 vt.出让，容许",
+        "look": "1",
+        "id": "27732605",
+        "word_id": "3770"
+    },
+    {
+        "word": "conciliatory",
+        "chinese": "adj.抚慰的，调和的；安抚的",
+        "look": "1",
+        "id": "27732606",
+        "word_id": "1559"
+    },
+    {
+        "word": "concise",
+        "chinese": "【形】简洁的：brief",
+        "look": "1",
+        "id": "27732607",
+        "word_id": "1313"
+    },
+    {
+        "word": "condescending",
+        "chinese": "【形】1. （态度）居高临下的；2. 屈尊的",
+        "look": "1",
+        "id": "27732608",
+        "word_id": "60"
+    },
+    {
+        "word": "condolence",
+        "chinese": "【名】同情；吊唁",
+        "look": "1",
+        "id": "27732609",
+        "word_id": "6919"
+    },
+    {
+        "word": "confer",
+        "chinese": "【动】1. 授予：give；2. 协商：consult",
+        "look": "1",
+        "id": "27732610",
+        "word_id": "6920"
+    },
+    {
+        "word": "confess",
+        "chinese": "【动】1. 承认（错误）；2. 忏悔",
+        "look": "1",
+        "id": "27732611",
+        "word_id": "6921"
+    },
+    {
+        "word": "congenial",
+        "chinese": "【形】非常友好的：friendly",
+        "look": "1",
+        "id": "27732612",
+        "word_id": "1695"
+    },
+    {
+        "word": "congenital",
+        "chinese": "adj. 先天的，天生的present from or before birth",
+        "look": "1",
+        "id": "27732613",
+        "word_id": "3784"
+    },
+    {
+        "word": "congregate",
+        "chinese": "v.(使)集合，聚集",
+        "look": "1",
+        "id": "27732614",
+        "word_id": "6922"
+    },
+    {
+        "word": "conspicuous",
+        "chinese": "adj. 显而易见的，明显的very noticeable or easy to see",
+        "look": "1",
+        "id": "27732615",
+        "word_id": "3793"
+    },
+    {
+        "word": "constrict",
+        "chinese": "【释义】v. to make narrow or draw together 压缩，束紧",
+        "look": "1",
+        "id": "27732616",
+        "word_id": "5846"
+    },
+    {
+        "word": "constringe",
+        "chinese": "【动】使收缩，使收敛",
+        "look": "1",
+        "id": "27732617",
+        "word_id": "6923"
+    },
+    {
+        "word": "contagious",
+        "chinese": "【形】有传染性的",
+        "look": "1",
+        "id": "27732618",
+        "word_id": "1644"
+    },
+    {
+        "word": "contemplation",
+        "chinese": "n. 沉思，凝视the process of thinking about something or looking at something for a long time",
+        "look": "1",
+        "id": "27732619",
+        "word_id": "2888"
+    },
+    {
+        "word": "contract",
+        "chinese": "n. 合同，契约an agreement between two or more parties, especially one that is written and enforceable by law; v. 订约，订合同；（使）缩小to enter into by contract, or to establish or settle by formal agreement; to reduce in size by drawing together; shrink",
+        "look": "1",
+        "id": "27732620",
+        "word_id": "3404"
+    },
+    {
+        "word": "contraption",
+        "chinese": "【名】新奇的装置",
+        "look": "1",
+        "id": "27732621",
+        "word_id": "6924"
+    },
+    {
+        "word": "contrivance",
+        "chinese": "【名】发明，发明物",
+        "look": "1",
+        "id": "27732622",
+        "word_id": "6925"
+    },
+    {
+        "word": "contrive",
+        "chinese": "【动】发明，设计",
+        "look": "1",
+        "id": "27732623",
+        "word_id": "5427"
+    },
+    {
+        "word": "converge",
+        "chinese": "【释】v. approach; tend to meet; come together. 聚合，集中于一点",
+        "look": "1",
+        "id": "27732624",
+        "word_id": "606"
+    },
+    {
+        "word": "corral",
+        "chinese": "【名】畜栏",
+        "look": "1",
+        "id": "27732625",
+        "word_id": "6926"
+    },
+    {
+        "word": "corresponding",
+        "chinese": "【形】相当的，对应的",
+        "look": "1",
+        "id": "27732626",
+        "word_id": "6927"
+    },
+    {
+        "word": "corrigible",
+        "chinese": "【形】可改正的",
+        "look": "1",
+        "id": "27732627",
+        "word_id": "6928"
+    },
+    {
+        "word": "cosmopolitan",
+        "chinese": "adj. 世界性的，国际的；四海为家的，兴趣广泛的containing people of different types or from different countries, and influenced by their culture; so sophisticated as to be at home in all parts of the world or conversant with many spheres of interest; n. 世界主义者，世界公民，四海为家者someone",
+        "look": "1",
+        "id": "27732628",
+        "word_id": "2502"
+    },
+    {
+        "word": "coterie",
+        "chinese": "【名】（有共同利益的）小集团、小团体",
+        "look": "1",
+        "id": "27732629",
+        "word_id": "3816"
+    },
+    {
+        "word": "countenance",
+        "chinese": "【名】1. 面容；2. （表示认可、沉着等的）表情",
+        "look": "1",
+        "id": "27732630",
+        "word_id": "78"
+    },
+    {
+        "word": "covertly",
+        "chinese": "【副】神秘地：secretly",
+        "look": "1",
+        "id": "27732631",
+        "word_id": "6929"
+    },
+    {
+        "word": "cribbing",
+        "chinese": "【名】剽窃，抄袭",
+        "look": "1",
+        "id": "27732632",
+        "word_id": "6930"
+    },
+    {
+        "word": "cryptonym",
+        "chinese": "【名】假名",
+        "look": "1",
+        "id": "27732633",
+        "word_id": "6931"
+    },
+    {
+        "word": "cue",
+        "chinese": "n.尾白，提示，信号 vt.向…发出指示信号",
+        "look": "1",
+        "id": "27732634",
+        "word_id": "5248"
+    },
+    {
+        "word": "culinary",
+        "chinese": "【形】厨房的，烹饪的",
+        "look": "1",
+        "id": "27732635",
+        "word_id": "3833"
+    },
+    {
+        "word": "cull",
+        "chinese": "【动】1. 选择；2.（为控制数量进行）选择性宰杀",
+        "look": "1",
+        "id": "27732636",
+        "word_id": "83"
+    },
+    {
+        "word": "curmudgeon",
+        "chinese": "【名】1. 吝啬鬼；2. 坏脾气的人",
+        "look": "1",
+        "id": "27732637",
+        "word_id": "613"
+    },
+    {
+        "word": "curtail",
+        "chinese": "vt.截断，缩短；缩减，限制",
+        "look": "1",
+        "id": "27732638",
+        "word_id": "615"
+    },
+    {
+        "word": "cushion",
+        "chinese": "【动】缓冲，减轻/【名】垫子",
+        "look": "1",
+        "id": "27732639",
+        "word_id": "6932"
+    },
+    {
+        "word": "cyclical",
+        "chinese": "【形】循环的，周期性的",
+        "look": "1",
+        "id": "27732640",
+        "word_id": "6933"
+    },
+    {
+        "word": "debase",
+        "chinese": "v. to reduce the value, quality, or status of something 降低（质量、地位、价值等），使贬值",
+        "look": "1",
+        "id": "27732641",
+        "word_id": "1466"
+    },
+    {
+        "word": "debilitate",
+        "chinese": "make (someone) weak and infirm v. 使(人或人的身体)非常虚弱",
+        "look": "1",
+        "id": "27732642",
+        "word_id": "618"
+    },
+    {
+        "word": "decadent",
+        "chinese": "【形】堕落的，颓废的 ",
+        "look": "1",
+        "id": "27732643",
+        "word_id": "6934"
+    },
+    {
+        "word": "deception",
+        "chinese": "【名】欺骗，诡计 ",
+        "look": "1",
+        "id": "27732644",
+        "word_id": "6935"
+    },
+    {
+        "word": "decree",
+        "chinese": "【名】命令，法令",
+        "look": "1",
+        "id": "27732645",
+        "word_id": "1685"
+    },
+    {
+        "word": "deferential",
+        "chinese": "【形】恭敬的，惯于顺从的",
+        "look": "1",
+        "id": "27732646",
+        "word_id": "2537"
+    },
+    {
+        "word": "defiant",
+        "chinese": "【释义】a. showing open resistance or bold disobedience 公然反抗的；藐视的",
+        "look": "1",
+        "id": "27732647",
+        "word_id": "621"
+    },
+    {
+        "word": "deleterious",
+        "chinese": "adj.有害的，有毒的",
+        "look": "1",
+        "id": "27732648",
+        "word_id": "623"
+    },
+    {
+        "word": "delineate",
+        "chinese": "vt.勾画，描述",
+        "look": "1",
+        "id": "27732649",
+        "word_id": "1806"
+    },
+    {
+        "word": "deluge",
+        "chinese": "【名】大洪水",
+        "look": "1",
+        "id": "27732650",
+        "word_id": "3858"
+    },
+    {
+        "word": "delusion",
+        "chinese": "【名】迷惑，错觉",
+        "look": "1",
+        "id": "27732651",
+        "word_id": "2414"
+    },
+    {
+        "word": "demon",
+        "chinese": "【名】恶魔",
+        "look": "1",
+        "id": "27732652",
+        "word_id": "6936"
+    },
+    {
+        "word": "demote",
+        "chinese": "【动】使降级，使降职；【反】promote",
+        "look": "1",
+        "id": "27732653",
+        "word_id": "6937"
+    },
+    {
+        "word": "denigrate",
+        "chinese": "vt.诋毁，诽谤",
+        "look": "1",
+        "id": "27732654",
+        "word_id": "3861"
+    },
+    {
+        "word": "denounce",
+        "chinese": "【动】1. 公开指责；2. 揭发",
+        "look": "1",
+        "id": "27732655",
+        "word_id": "1770"
+    },
+    {
+        "word": "deplete",
+        "chinese": "【动】使大大地减少，用尽,使空虚：reduce",
+        "look": "1",
+        "id": "27732656",
+        "word_id": "1883"
+    },
+    {
+        "word": "deplore",
+        "chinese": "vt.悲叹，痛惜;强烈反对",
+        "look": "1",
+        "id": "27732657",
+        "word_id": "3863"
+    },
+    {
+        "word": "derogate",
+        "chinese": "【动】减损  ",
+        "look": "1",
+        "id": "27732658",
+        "word_id": "2080"
+    },
+    {
+        "word": "descendant",
+        "chinese": "n. 子孙，后代，后裔 someone's descendants are the people in later generations who are related to them",
+        "look": "1",
+        "id": "27732659",
+        "word_id": "2500"
+    },
+    {
+        "word": "desolate",
+        "chinese": "【形】贫瘠的，荒凉的",
+        "look": "1",
+        "id": "27732660",
+        "word_id": "2470"
+    },
+    {
+        "word": "despondent",
+        "chinese": "【形】极其沮丧的",
+        "look": "1",
+        "id": "27732661",
+        "word_id": "5069"
+    },
+    {
+        "word": "destitute",
+        "chinese": "adj.赤贫的，贫苦的;没有的，缺乏的",
+        "look": "1",
+        "id": "27732662",
+        "word_id": "633"
+    },
+    {
+        "word": "destitution",
+        "chinese": "【名】穷困，贫穷  ",
+        "look": "1",
+        "id": "27732663",
+        "word_id": "2042"
+    },
+    {
+        "word": "detached",
+        "chinese": "【形】1. 分离的；2. 超然的，客观的",
+        "look": "1",
+        "id": "27732664",
+        "word_id": "2305"
+    },
+    {
+        "word": "deterrent",
+        "chinese": "【名】起制止作用的物体等",
+        "look": "1",
+        "id": "27732665",
+        "word_id": "2546"
+    },
+    {
+        "word": "device",
+        "chinese": "【名】装置，设备",
+        "look": "1",
+        "id": "27732666",
+        "word_id": "6938"
+    },
+    {
+        "word": "diatonic",
+        "chinese": "【形】全音阶的",
+        "look": "1",
+        "id": "27732667",
+        "word_id": "6939"
+    },
+    {
+        "word": "diffusive",
+        "chinese": "【形】散布性的，扩散的",
+        "look": "1",
+        "id": "27732668",
+        "word_id": "6940"
+    },
+    {
+        "word": "diminish",
+        "chinese": "v.(使)减少;缩小",
+        "look": "1",
+        "id": "27732669",
+        "word_id": "5531"
+    },
+    {
+        "word": "diminutive",
+        "chinese": "adj.小得出奇的，特小的(指后缀)，表示小的",
+        "look": "1",
+        "id": "27732670",
+        "word_id": "640"
+    },
+    {
+        "word": "dingy",
+        "chinese": "adj.暗淡的，乏味的",
+        "look": "1",
+        "id": "27732671",
+        "word_id": "3884"
+    },
+    {
+        "word": "diploma",
+        "chinese": "【名】毕业文凭",
+        "look": "1",
+        "id": "27732672",
+        "word_id": "6941"
+    },
+    {
+        "word": "diplomat",
+        "chinese": "【名】外交官",
+        "look": "1",
+        "id": "27732673",
+        "word_id": "6942"
+    },
+    {
+        "word": "diplomatic",
+        "chinese": "【形】1. 外交上的；2. 有手腕、策略的",
+        "look": "1",
+        "id": "27732674",
+        "word_id": "1248"
+    },
+    {
+        "word": "dire",
+        "chinese": "【形】可怕的，恐怖的",
+        "look": "1",
+        "id": "27732675",
+        "word_id": "3134"
+    },
+    {
+        "word": "dismal",
+        "chinese": "adj.阴沉的，凄凉的，令人忧郁的",
+        "look": "1",
+        "id": "27732676",
+        "word_id": "3161"
+    },
+    {
+        "word": "dismantle",
+        "chinese": "v. 拆开，拆除；终止，废除to separate the parts of something such as a machine so that they no longer form a single unit; to end a political or economic system or get rid of an institution",
+        "look": "1",
+        "id": "27732677",
+        "word_id": "1768"
+    },
+    {
+        "word": "disparage",
+        "chinese": "express a negative opinion of v. 轻视，小看，贬低, 诋毁",
+        "look": "1",
+        "id": "27732678",
+        "word_id": "1598"
+    },
+    {
+        "word": "disparaging",
+        "chinese": "【形】蔑视的，轻视的",
+        "look": "1",
+        "id": "27732679",
+        "word_id": "651"
+    },
+    {
+        "word": "dispassionate",
+        "chinese": "【形】1. 平心静气的；2. 公正的",
+        "look": "1",
+        "id": "27732680",
+        "word_id": "2306"
+    },
+    {
+        "word": "dispatch",
+        "chinese": "【动】【名】派发，派遣：dispose",
+        "look": "1",
+        "id": "27732681",
+        "word_id": "1864"
+    },
+    {
+        "word": "dispersive",
+        "chinese": "【形】分散的，弥散的",
+        "look": "1",
+        "id": "27732682",
+        "word_id": "2481"
+    },
+    {
+        "word": "dissertation",
+        "chinese": "【名】学位论文，专题论文 ",
+        "look": "1",
+        "id": "27732683",
+        "word_id": "3904"
+    },
+    {
+        "word": "dissociate",
+        "chinese": "【动】分开，断绝（关系）",
+        "look": "1",
+        "id": "27732684",
+        "word_id": "6943"
+    },
+    {
+        "word": "distress",
+        "chinese": "【名】【动】痛苦，苦恼",
+        "look": "1",
+        "id": "27732685",
+        "word_id": "6944"
+    },
+    {
+        "word": "ditty",
+        "chinese": "【名】小曲，歌谣 ",
+        "look": "1",
+        "id": "27732686",
+        "word_id": "3322"
+    },
+    {
+        "word": "divest",
+        "chinese": "【动】脱去（衣服）；剥夺  ",
+        "look": "1",
+        "id": "27732687",
+        "word_id": "121"
+    },
+    {
+        "word": "divulge",
+        "chinese": "vt.吐露，泄露",
+        "look": "1",
+        "id": "27732688",
+        "word_id": "2001"
+    },
+    {
+        "word": "docile",
+        "chinese": "adj.容易教的;易驾驶的;驯服的",
+        "look": "1",
+        "id": "27732689",
+        "word_id": "1724"
+    },
+    {
+        "word": "doleful",
+        "chinese": "adj.令人沮丧的，悲哀的，沉闷的，阴郁的",
+        "look": "1",
+        "id": "27732690",
+        "word_id": "2829"
+    },
+    {
+        "word": "domicile",
+        "chinese": "【名】住处",
+        "look": "1",
+        "id": "27732691",
+        "word_id": "3921"
+    },
+    {
+        "word": "dominant",
+        "chinese": "【释义】adj. 支配的，占优势的，占主导地位的more important, powerful, or successful than the other people or things of the same type",
+        "look": "1",
+        "id": "27732692",
+        "word_id": "5691"
+    },
+    {
+        "word": "dope",
+        "chinese": "【名】1. 涂料；2. 毒品；3. 可靠的消息",
+        "look": "1",
+        "id": "27732693",
+        "word_id": "6945"
+    },
+    {
+        "word": "dower",
+        "chinese": "【名】嫁妆",
+        "look": "1",
+        "id": "27732694",
+        "word_id": "6946"
+    },
+    {
+        "word": "drab",
+        "chinese": "【形】土褐色的，乏味的",
+        "look": "1",
+        "id": "27732695",
+        "word_id": "5002"
+    },
+    {
+        "word": "dreary",
+        "chinese": "【形】使人闷闷不乐的、沮丧的",
+        "look": "1",
+        "id": "27732696",
+        "word_id": "6947"
+    },
+    {
+        "word": "dull",
+        "chinese": "【形】不鲜明的，枯燥无味的",
+        "look": "1",
+        "id": "27732697",
+        "word_id": "2243"
+    },
+    {
+        "word": "dwindle",
+        "chinese": "【动】减少，衰落",
+        "look": "1",
+        "id": "27732698",
+        "word_id": "1855"
+    },
+    {
+        "word": "ease",
+        "chinese": "【动】减轻，舒缓",
+        "look": "1",
+        "id": "27732699",
+        "word_id": "5397"
+    },
+    {
+        "word": "ecumenical",
+        "chinese": "【形】1. 普遍的；2. （基督教各教派）大公的",
+        "look": "1",
+        "id": "27732700",
+        "word_id": "6948"
+    },
+    {
+        "word": "elaborate",
+        "chinese": "【动】详细阐述，变得复杂/【形】精细的",
+        "look": "1",
+        "id": "27732701",
+        "word_id": "2632"
+    },
+    {
+        "word": "elapse",
+        "chinese": "【动】（时间）消逝，过去 ",
+        "look": "1",
+        "id": "27732702",
+        "word_id": "6949"
+    },
+    {
+        "word": "elicit",
+        "chinese": "【动】引出",
+        "look": "1",
+        "id": "27732703",
+        "word_id": "3000"
+    },
+    {
+        "word": "elude",
+        "chinese": "to avoid or escape (someone or something) by being quick, skillful, or clever v. （尤指机敏地）避开",
+        "look": "1",
+        "id": "27732704",
+        "word_id": "667"
+    },
+    {
+        "word": "embellish",
+        "chinese": "to make beautiful with ornamentation v. 美化，装饰，修饰，润色",
+        "look": "1",
+        "id": "27732705",
+        "word_id": "669"
+    },
+    {
+        "word": "embellishment",
+        "chinese": "【名】装饰",
+        "look": "1",
+        "id": "27732706",
+        "word_id": "6950"
+    },
+    {
+        "word": "embroil",
+        "chinese": "vt.使(自己或他人)卷入纠纷",
+        "look": "1",
+        "id": "27732707",
+        "word_id": "2862"
+    },
+    {
+        "word": "eminent",
+        "chinese": "adj.(人)知名的;受人尊崇的",
+        "look": "1",
+        "id": "27732708",
+        "word_id": "2182"
+    },
+    {
+        "word": "empathetic",
+        "chinese": "【形】（感情）共鸣的，同理心的",
+        "look": "1",
+        "id": "27732709",
+        "word_id": "1757"
+    },
+    {
+        "word": "empathic",
+        "chinese": "【形】= empathetic",
+        "look": "1",
+        "id": "27732710",
+        "word_id": "6951"
+    },
+    {
+        "word": "empathy",
+        "chinese": "【名】（感情）共鸣，感同身受",
+        "look": "1",
+        "id": "27732711",
+        "word_id": "3207"
+    },
+    {
+        "word": "emphatic",
+        "chinese": "【形】明确强调的；不容置疑的",
+        "look": "1",
+        "id": "27732712",
+        "word_id": "1822"
+    },
+    {
+        "word": "enamor",
+        "chinese": "【动】使倾心，使迷恋",
+        "look": "1",
+        "id": "27732713",
+        "word_id": "6952"
+    },
+    {
+        "word": "encroach",
+        "chinese": "【动】1. 蚕食；2. 缓慢前进：creep",
+        "look": "1",
+        "id": "27732714",
+        "word_id": "1776"
+    },
+    {
+        "word": "encumber",
+        "chinese": "【动】妨碍，拖累 ",
+        "look": "1",
+        "id": "27732715",
+        "word_id": "5584"
+    },
+    {
+        "word": "endow",
+        "chinese": "【动】捐赠，资助",
+        "look": "1",
+        "id": "27732716",
+        "word_id": "5409"
+    },
+    {
+        "word": "enliven",
+        "chinese": "【动】使活泼或愉快  ",
+        "look": "1",
+        "id": "27732717",
+        "word_id": "2031"
+    },
+    {
+        "word": "entangle",
+        "chinese": "【动】使陷入困难或复杂环境 ",
+        "look": "1",
+        "id": "27732718",
+        "word_id": "1650"
+    },
+    {
+        "word": "enthrall",
+        "chinese": "【动】迷住，吸引：fascinate",
+        "look": "1",
+        "id": "27732719",
+        "word_id": "675"
+    },
+    {
+        "word": "entreat",
+        "chinese": "【动】恳求",
+        "look": "1",
+        "id": "27732720",
+        "word_id": "146"
+    },
+    {
+        "word": "epicure",
+        "chinese": "【名】美食家",
+        "look": "1",
+        "id": "27732721",
+        "word_id": "3970"
+    },
+    {
+        "word": "epilogue",
+        "chinese": "【名】结语，收场白",
+        "look": "1",
+        "id": "27732722",
+        "word_id": "147"
+    },
+    {
+        "word": "episode",
+        "chinese": "【名】插曲，片段",
+        "look": "1",
+        "id": "27732723",
+        "word_id": "6953"
+    },
+    {
+        "word": "epistle",
+        "chinese": "【名】书信：letter",
+        "look": "1",
+        "id": "27732724",
+        "word_id": "2930"
+    },
+    {
+        "word": "equidistant",
+        "chinese": "【形】等距的 ",
+        "look": "1",
+        "id": "27732725",
+        "word_id": "6954"
+    },
+    {
+        "word": "equipoise",
+        "chinese": "【名】平衡，均衡 ",
+        "look": "1",
+        "id": "27732726",
+        "word_id": "6955"
+    },
+    {
+        "word": "equivocal",
+        "chinese": "【形】模棱两可的，含糊的",
+        "look": "1",
+        "id": "27732727",
+        "word_id": "679"
+    },
+    {
+        "word": "errant",
+        "chinese": "【形】1. 周游的；2. 迷途的；3. 行为不当的",
+        "look": "1",
+        "id": "27732728",
+        "word_id": "6956"
+    },
+    {
+        "word": "eulogistic",
+        "chinese": "【形】赞颂的",
+        "look": "1",
+        "id": "27732729",
+        "word_id": "6957"
+    },
+    {
+        "word": "exaggeration",
+        "chinese": "【名】夸张，夸大",
+        "look": "1",
+        "id": "27732730",
+        "word_id": "6958"
+    },
+    {
+        "word": "exemplar",
+        "chinese": "【名】模范，范例",
+        "look": "1",
+        "id": "27732731",
+        "word_id": "6959"
+    },
+    {
+        "word": "exile",
+        "chinese": "【名】【动】放逐，流放",
+        "look": "1",
+        "id": "27732732",
+        "word_id": "6960"
+    },
+    {
+        "word": "expedient",
+        "chinese": "【名】简便快捷的方法；权宜之计",
+        "look": "1",
+        "id": "27732733",
+        "word_id": "3337"
+    },
+    {
+        "word": "expedition",
+        "chinese": "【名】远征，探险考察",
+        "look": "1",
+        "id": "27732734",
+        "word_id": "5881"
+    },
+    {
+        "word": "expenditure",
+        "chinese": "【名】开销，花费：money paid out",
+        "look": "1",
+        "id": "27732735",
+        "word_id": "3994"
+    },
+    {
+        "word": "explicit",
+        "chinese": "【形】明晰的：【反】implicit",
+        "look": "1",
+        "id": "27732736",
+        "word_id": "2193"
+    },
+    {
+        "word": "extroverted",
+        "chinese": "【形】性情外向的：【反】introverted",
+        "look": "1",
+        "id": "27732737",
+        "word_id": "6507"
+    },
+    {
+        "word": "facet",
+        "chinese": "【名】1. （事物的）方面；2. （宝石等的）小切面",
+        "look": "1",
+        "id": "27732738",
+        "word_id": "4007"
+    },
+    {
+        "word": "facsimile",
+        "chinese": "【名】传真（缩写为fax）",
+        "look": "1",
+        "id": "27732739",
+        "word_id": "700"
+    },
+    {
+        "word": "faction",
+        "chinese": "【名】（组织中的）小派别，派系",
+        "look": "1",
+        "id": "27732740",
+        "word_id": "4008"
+    },
+    {
+        "word": "famine",
+        "chinese": "【名】饥荒",
+        "look": "1",
+        "id": "27732741",
+        "word_id": "6509"
+    },
+    {
+        "word": "fatigue",
+        "chinese": "【名】疲劳",
+        "look": "1",
+        "id": "27732742",
+        "word_id": "5725"
+    },
+    {
+        "word": "feminine",
+        "chinese": "【形】有女性气质的，女子气的",
+        "look": "1",
+        "id": "27732743",
+        "word_id": "6961"
+    },
+    {
+        "word": "fiasco",
+        "chinese": "a complete failure（突然发生的）灾难，彻底失败，惨败",
+        "look": "1",
+        "id": "27732744",
+        "word_id": "5109"
+    },
+    {
+        "word": "filch",
+        "chinese": "vt.偷(尤指小的或不贵重的物品)",
+        "look": "1",
+        "id": "27732745",
+        "word_id": "4028"
+    },
+    {
+        "word": "finesse",
+        "chinese": "【名】1. 精细；2. 技巧，手腕",
+        "look": "1",
+        "id": "27732746",
+        "word_id": "1913"
+    },
+    {
+        "word": "flagrant",
+        "chinese": "【形】罪恶昭彰的，公然的",
+        "look": "1",
+        "id": "27732747",
+        "word_id": "2036"
+    },
+    {
+        "word": "flamboyant",
+        "chinese": "adj.(人或物)显眼的，浮夸的，炫耀的",
+        "look": "1",
+        "id": "27732748",
+        "word_id": "1403"
+    },
+    {
+        "word": "flattering",
+        "chinese": "【形】谄媚的，讨好的",
+        "look": "1",
+        "id": "27732749",
+        "word_id": "6962"
+    },
+    {
+        "word": "fleck",
+        "chinese": "【名】斑点，小点 ",
+        "look": "1",
+        "id": "27732750",
+        "word_id": "2421"
+    },
+    {
+        "word": "flippant",
+        "chinese": "【形】轻率的，话多的",
+        "look": "1",
+        "id": "27732751",
+        "word_id": "709"
+    },
+    {
+        "word": "flourish",
+        "chinese": "v. 繁荣，茂盛to grow well or luxuriantly; to thrive or prosper",
+        "look": "1",
+        "id": "27732752",
+        "word_id": "4036"
+    },
+    {
+        "word": "flout",
+        "chinese": "【动】表示轻蔑，嘲笑",
+        "look": "1",
+        "id": "27732753",
+        "word_id": "3002"
+    },
+    {
+        "word": "fluctuate",
+        "chinese": "v. 波动，起伏to change frequently",
+        "look": "1",
+        "id": "27732754",
+        "word_id": "4037"
+    },
+    {
+        "word": "foible",
+        "chinese": "【名】（品格或行为的）轻微缺陷：weakness",
+        "look": "1",
+        "id": "27732755",
+        "word_id": "2694"
+    },
+    {
+        "word": "forbidding",
+        "chinese": "not friendly or appealing: having a frightening or threatening appearance adj. 令人生畏的",
+        "look": "1",
+        "id": "27732756",
+        "word_id": "1570"
+    },
+    {
+        "word": "frock",
+        "chinese": "【名】1. 僧袍；2. 连衣裙 ",
+        "look": "1",
+        "id": "27732757",
+        "word_id": "6963"
+    },
+    {
+        "word": "frugal",
+        "chinese": "【形】节俭的 ",
+        "look": "1",
+        "id": "27732758",
+        "word_id": "719"
+    },
+    {
+        "word": "fumble",
+        "chinese": "【动】1. 笨拙地摸索；2. 犯错：grope / blunder",
+        "look": "1",
+        "id": "27732759",
+        "word_id": "6964"
+    },
+    {
+        "word": "furtive",
+        "chinese": "adj.(指行动)偷偷摸摸的，(指人)鬼鬼祟祟的",
+        "look": "1",
+        "id": "27732760",
+        "word_id": "1716"
+    },
+    {
+        "word": "futile",
+        "chinese": "【释义】adj. serving no useful purpose : completely ineffective 无用的，无效的",
+        "look": "1",
+        "id": "27732761",
+        "word_id": "1647"
+    },
+    {
+        "word": "gadget",
+        "chinese": "【名】小机械，小器具 ",
+        "look": "1",
+        "id": "27732762",
+        "word_id": "6965"
+    },
+    {
+        "word": "galactic",
+        "chinese": "【形】1. 银河的；2. 巨大的",
+        "look": "1",
+        "id": "27732763",
+        "word_id": "6966"
+    },
+    {
+        "word": "gambit",
+        "chinese": "【名】策略：stratagem",
+        "look": "1",
+        "id": "27732764",
+        "word_id": "187"
+    },
+    {
+        "word": "gangly",
+        "chinese": "【形】瘦高且难看的：awkward ",
+        "look": "1",
+        "id": "27732765",
+        "word_id": "6967"
+    },
+    {
+        "word": "garment",
+        "chinese": "【名】服装",
+        "look": "1",
+        "id": "27732766",
+        "word_id": "1422"
+    },
+    {
+        "word": "garnish",
+        "chinese": "【动】装饰",
+        "look": "1",
+        "id": "27732767",
+        "word_id": "2013"
+    },
+    {
+        "word": "garrulous",
+        "chinese": "【形】多嘴的，话多的：loquacious",
+        "look": "1",
+        "id": "27732768",
+        "word_id": "2304"
+    },
+    {
+        "word": "genial",
+        "chinese": "【形】舒适的",
+        "look": "1",
+        "id": "27732769",
+        "word_id": "1230"
+    },
+    {
+        "word": "genuine",
+        "chinese": "adj. 真正的，真实的；真诚的，诚实的real, rather than pretended or false; honest, friendly and sincere",
+        "look": "1",
+        "id": "27732770",
+        "word_id": "6968"
+    },
+    {
+        "word": "gizmo",
+        "chinese": "【名】小发明",
+        "look": "1",
+        "id": "27732771",
+        "word_id": "6969"
+    },
+    {
+        "word": "glee",
+        "chinese": "【名】欢乐",
+        "look": "1",
+        "id": "27732772",
+        "word_id": "6970"
+    },
+    {
+        "word": "glib",
+        "chinese": "adj.(演讲者或演讲)油腔滑调的，不诚恳的，未经思考的，肤浅的",
+        "look": "1",
+        "id": "27732773",
+        "word_id": "4088"
+    },
+    {
+        "word": "glorification",
+        "chinese": "【名】荣耀，赞颂 ",
+        "look": "1",
+        "id": "27732774",
+        "word_id": "6971"
+    },
+    {
+        "word": "glut",
+        "chinese": "【动】1. 饱餐；2. 倾销货物",
+        "look": "1",
+        "id": "27732775",
+        "word_id": "197"
+    },
+    {
+        "word": "gown",
+        "chinese": "【名】长袍，女礼服",
+        "look": "1",
+        "id": "27732776",
+        "word_id": "6972"
+    },
+    {
+        "word": "grant",
+        "chinese": "【动】1. 授予；2. 承认【名】奖学金，补助金",
+        "look": "1",
+        "id": "27732777",
+        "word_id": "5335"
+    },
+    {
+        "word": "granulate",
+        "chinese": "【动】使成颗粒状 ",
+        "look": "1",
+        "id": "27732778",
+        "word_id": "4105"
+    },
+    {
+        "word": "gratuitous",
+        "chinese": "adj.免费的，无偿的，无必要的",
+        "look": "1",
+        "id": "27732779",
+        "word_id": "2075"
+    },
+    {
+        "word": "grim",
+        "chinese": "【形】严酷的，无情的",
+        "look": "1",
+        "id": "27732780",
+        "word_id": "6973"
+    },
+    {
+        "word": "gullible",
+        "chinese": "easily persuaded to believe something; credulous adj. 易受骗的",
+        "look": "1",
+        "id": "27732781",
+        "word_id": "1137"
+    },
+    {
+        "word": "gyrate",
+        "chinese": "v.旋转，回旋",
+        "look": "1",
+        "id": "27732782",
+        "word_id": "6974"
+    },
+    {
+        "word": "harass",
+        "chinese": "【动】骚扰  ",
+        "look": "1",
+        "id": "27732783",
+        "word_id": "3420"
+    },
+    {
+        "word": "hazy",
+        "chinese": "adj.有雾的，模糊的",
+        "look": "1",
+        "id": "27732784",
+        "word_id": "3246"
+    },
+    {
+        "word": "hedge",
+        "chinese": "【名】树篱/【动】回避，规避",
+        "look": "1",
+        "id": "27732785",
+        "word_id": "6975"
+    },
+    {
+        "word": "heir",
+        "chinese": "【名】继承人 ",
+        "look": "1",
+        "id": "27732786",
+        "word_id": "6976"
+    },
+    {
+        "word": "hem",
+        "chinese": "【名】褶边，边沿/【动】给……缝边",
+        "look": "1",
+        "id": "27732787",
+        "word_id": "6977"
+    },
+    {
+        "word": "herculean",
+        "chinese": "【形】力大无比的",
+        "look": "1",
+        "id": "27732788",
+        "word_id": "6978"
+    },
+    {
+        "word": "Hercules",
+        "chinese": "【名】大力士（希腊神话中大力神的名字）",
+        "look": "1",
+        "id": "27732789",
+        "word_id": "6979"
+    },
+    {
+        "word": "homage",
+        "chinese": "expression of high regard: respect n. 尊敬，崇敬，尊重",
+        "look": "1",
+        "id": "27732790",
+        "word_id": "217"
+    },
+    {
+        "word": "hospitable",
+        "chinese": "【形】好客的，殷勤的",
+        "look": "1",
+        "id": "27732791",
+        "word_id": "6980"
+    },
+    {
+        "word": "hostile",
+        "chinese": "adj.怀有敌意的，不友善的",
+        "look": "1",
+        "id": "27732792",
+        "word_id": "2986"
+    },
+    {
+        "word": "hyperbole",
+        "chinese": "【名】（修辞法）夸张：exaggerated language",
+        "look": "1",
+        "id": "27732793",
+        "word_id": "3243"
+    },
+    {
+        "word": "hypothesis",
+        "chinese": "【名】假说",
+        "look": "1",
+        "id": "27732794",
+        "word_id": "2754"
+    },
+    {
+        "word": "idle",
+        "chinese": "【动】无所事事",
+        "look": "1",
+        "id": "27732795",
+        "word_id": "6264"
+    },
+    {
+        "word": "ignominious",
+        "chinese": "【形】卑鄙的，可耻的",
+        "look": "1",
+        "id": "27732796",
+        "word_id": "6981"
+    },
+    {
+        "word": "immaculate",
+        "chinese": "adj.整洁的，无污迹的",
+        "look": "1",
+        "id": "27732797",
+        "word_id": "741"
+    },
+    {
+        "word": "immodest",
+        "chinese": "【形】不谦虚的，自负的",
+        "look": "1",
+        "id": "27732798",
+        "word_id": "6982"
+    },
+    {
+        "word": "impair",
+        "chinese": "vt.损害，削弱",
+        "look": "1",
+        "id": "27732799",
+        "word_id": "742"
+    },
+    {
+        "word": "impart",
+        "chinese": "【动】1. 传授；2. 透露",
+        "look": "1",
+        "id": "27732800",
+        "word_id": "4157"
+    },
+    {
+        "word": "impartial",
+        "chinese": "adj.不偏不倚的，公正的，中立的",
+        "look": "1",
+        "id": "27732801",
+        "word_id": "4158"
+    },
+    {
+        "word": "impasse",
+        "chinese": "n.绝境，停顿；僵局：deadlock",
+        "look": "1",
+        "id": "27732802",
+        "word_id": "743"
+    },
+    {
+        "word": "impeccable",
+        "chinese": "adj.无错误的，极好的，无瑕疵的",
+        "look": "1",
+        "id": "27732803",
+        "word_id": "3388"
+    },
+    {
+        "word": "impermeable",
+        "chinese": "adj. 不能渗透的，透不过的not allowing a liquid or gas to pass through",
+        "look": "1",
+        "id": "27732804",
+        "word_id": "748"
+    },
+    {
+        "word": "implicate",
+        "chinese": "【动】牵连，涉及 ",
+        "look": "1",
+        "id": "27732805",
+        "word_id": "3082"
+    },
+    {
+        "word": "impoverished",
+        "chinese": "【形】穷困的",
+        "look": "1",
+        "id": "27732806",
+        "word_id": "4171"
+    },
+    {
+        "word": "impoverishment",
+        "chinese": "【名】穷困",
+        "look": "1",
+        "id": "27732807",
+        "word_id": "6983"
+    },
+    {
+        "word": "impromptu",
+        "chinese": "【释义】adj. not planned or prepared 无准备的，即兴的",
+        "look": "1",
+        "id": "27732808",
+        "word_id": "1332"
+    },
+    {
+        "word": "impugn",
+        "chinese": "vt.非难，指摘; 对…有怀疑",
+        "look": "1",
+        "id": "27732809",
+        "word_id": "754"
+    },
+    {
+        "word": "inauspicious",
+        "chinese": "【形】不祥的",
+        "look": "1",
+        "id": "27732810",
+        "word_id": "1482"
+    },
+    {
+        "word": "incendiary",
+        "chinese": "【名】1. 纵火犯；2. 煽动者",
+        "look": "1",
+        "id": "27732811",
+        "word_id": "227"
+    },
+    {
+        "word": "incentive",
+        "chinese": "【名】激励：inspiration",
+        "look": "1",
+        "id": "27732812",
+        "word_id": "4177"
+    },
+    {
+        "word": "indigence",
+        "chinese": "【名】贫乏",
+        "look": "1",
+        "id": "27732813",
+        "word_id": "2043"
+    },
+    {
+        "word": "indigenous",
+        "chinese": "【形】1. 本地的；2. 与生俱来的",
+        "look": "1",
+        "id": "27732814",
+        "word_id": "761"
+    },
+    {
+        "word": "infectious",
+        "chinese": "adj.传染的，有传染性的",
+        "look": "1",
+        "id": "27732815",
+        "word_id": "3029"
+    },
+    {
+        "word": "inherent",
+        "chinese": "adj.固有的;内在的",
+        "look": "1",
+        "id": "27732816",
+        "word_id": "4204"
+    },
+    {
+        "word": "innuendo",
+        "chinese": "n.含沙射影的话，暗讽的话;含沙射影，暗讽",
+        "look": "1",
+        "id": "27732817",
+        "word_id": "774"
+    },
+    {
+        "word": "inscription",
+        "chinese": "【名】铭文，铭刻",
+        "look": "1",
+        "id": "27732818",
+        "word_id": "6984"
+    },
+    {
+        "word": "insinuation",
+        "chinese": "【名】暗示，含蓄的批评",
+        "look": "1",
+        "id": "27732819",
+        "word_id": "5055"
+    },
+    {
+        "word": "insolence",
+        "chinese": "【名】无礼",
+        "look": "1",
+        "id": "27732820",
+        "word_id": "2044"
+    },
+    {
+        "word": "insolent",
+        "chinese": "adj.侮慢的，无礼的",
+        "look": "1",
+        "id": "27732821",
+        "word_id": "777"
+    },
+    {
+        "word": "instinctive",
+        "chinese": "adj. 本能的，天生的done without thinking, because of a natural tendency or ability",
+        "look": "1",
+        "id": "27732822",
+        "word_id": "2309"
+    },
+    {
+        "word": "institute",
+        "chinese": "【名】（课程等的）导论：guide",
+        "look": "1",
+        "id": "27732823",
+        "word_id": "6985"
+    },
+    {
+        "word": "interlope",
+        "chinese": "【动】（为图私利）干涉他人之事",
+        "look": "1",
+        "id": "27732824",
+        "word_id": "6986"
+    },
+    {
+        "word": "interloper",
+        "chinese": "someone who is in a place or group but is not wanted by the other people there n. 闯入者，干涉他人事务者",
+        "look": "1",
+        "id": "27732825",
+        "word_id": "782"
+    },
+    {
+        "word": "intricate",
+        "chinese": "adj. 错综复杂的；难理解的very detailed in design or structure; very complicated and difficult to understand or learn",
+        "look": "1",
+        "id": "27732826",
+        "word_id": "785"
+    },
+    {
+        "word": "intrigue",
+        "chinese": "the activity of making secret plans n. 阴谋; to make (someone) want to know more about something: to cause (someone) to become interested v. 激起…的好奇心",
+        "look": "1",
+        "id": "27732827",
+        "word_id": "1493"
+    },
+    {
+        "word": "invigorate",
+        "chinese": "【动】使精力充沛",
+        "look": "1",
+        "id": "27732828",
+        "word_id": "2007"
+    },
+    {
+        "word": "irk",
+        "chinese": "【动】使烦恼",
+        "look": "1",
+        "id": "27732829",
+        "word_id": "6987"
+    },
+    {
+        "word": "irksome",
+        "chinese": "【形】令人厌烦的",
+        "look": "1",
+        "id": "27732830",
+        "word_id": "249"
+    },
+    {
+        "word": "irritate",
+        "chinese": "【形】使发怒",
+        "look": "1",
+        "id": "27732831",
+        "word_id": "6988"
+    },
+    {
+        "word": "itinerary",
+        "chinese": "【名】行程 ",
+        "look": "1",
+        "id": "27732832",
+        "word_id": "4241"
+    },
+    {
+        "word": "jargon",
+        "chinese": "【名】行话，黑话；隐语",
+        "look": "1",
+        "id": "27732833",
+        "word_id": "252"
+    },
+    {
+        "word": "jaunt",
+        "chinese": "【名】游览  ",
+        "look": "1",
+        "id": "27732834",
+        "word_id": "4243"
+    },
+    {
+        "word": "jeer",
+        "chinese": "【动】【名】嘲笑",
+        "look": "1",
+        "id": "27732835",
+        "word_id": "5134"
+    },
+    {
+        "word": "jettison",
+        "chinese": "【动】抛弃，丢弃",
+        "look": "1",
+        "id": "27732836",
+        "word_id": "2420"
+    },
+    {
+        "word": "jocund",
+        "chinese": "【形】兴奋的，欢快的",
+        "look": "1",
+        "id": "27732837",
+        "word_id": "6989"
+    },
+    {
+        "word": "judicial",
+        "chinese": "【形】1. 司法的；2. 明断的，公正的",
+        "look": "1",
+        "id": "27732838",
+        "word_id": "6990"
+    },
+    {
+        "word": "judicious",
+        "chinese": "having or showing good judgment adj. 明智的，明断的",
+        "look": "1",
+        "id": "27732839",
+        "word_id": "792"
+    },
+    {
+        "word": "junket",
+        "chinese": "【名】公费旅游",
+        "look": "1",
+        "id": "27732840",
+        "word_id": "6991"
+    },
+    {
+        "word": "lacerate",
+        "chinese": "【动】撕伤，伤害（感情等）",
+        "look": "1",
+        "id": "27732841",
+        "word_id": "6992"
+    },
+    {
+        "word": "larva",
+        "chinese": "【名】（昆虫的）幼虫，幼体",
+        "look": "1",
+        "id": "27732842",
+        "word_id": "6993"
+    },
+    {
+        "word": "laudatory",
+        "chinese": "expressing or containing praise adj. （文章或言谈）表示赞美的；颂扬的",
+        "look": "1",
+        "id": "27732843",
+        "word_id": "1150"
+    },
+    {
+        "word": "lava",
+        "chinese": "【名】（火山喷发的）熔岩",
+        "look": "1",
+        "id": "27732844",
+        "word_id": "6994"
+    },
+    {
+        "word": "legible",
+        "chinese": "【形】易读的：easy to read",
+        "look": "1",
+        "id": "27732845",
+        "word_id": "6995"
+    },
+    {
+        "word": "legitimate",
+        "chinese": "【形】1. 合法的；2. 正当的，合情合理的",
+        "look": "1",
+        "id": "27732846",
+        "word_id": "2837"
+    },
+    {
+        "word": "lessen",
+        "chinese": "【动】减少，变少",
+        "look": "1",
+        "id": "27732847",
+        "word_id": "6996"
+    },
+    {
+        "word": "lethargic",
+        "chinese": "【形】昏睡的，无精打采的",
+        "look": "1",
+        "id": "27732848",
+        "word_id": "4904"
+    },
+    {
+        "word": "limerick",
+        "chinese": "【名】幽默的五行打油诗",
+        "look": "1",
+        "id": "27732849",
+        "word_id": "4274"
+    },
+    {
+        "word": "literal",
+        "chinese": "【形】字面的，原义的",
+        "look": "1",
+        "id": "27732850",
+        "word_id": "6997"
+    },
+    {
+        "word": "loathe",
+        "chinese": "vt.憎恨，厌恶",
+        "look": "1",
+        "id": "27732851",
+        "word_id": "4283"
+    },
+    {
+        "word": "lore",
+        "chinese": "【名】学问，传统知识",
+        "look": "1",
+        "id": "27732852",
+        "word_id": "6998"
+    },
+    {
+        "word": "lubricate",
+        "chinese": "【动】使润滑：grease",
+        "look": "1",
+        "id": "27732853",
+        "word_id": "6561"
+    },
+    {
+        "word": "ludicrous",
+        "chinese": "adj.荒唐(滑稽)可笑的",
+        "look": "1",
+        "id": "27732854",
+        "word_id": "2765"
+    },
+    {
+        "word": "lull",
+        "chinese": "【动】1. 使休息或睡觉；2. 使放松/【名】暂停",
+        "look": "1",
+        "id": "27732855",
+        "word_id": "4291"
+    },
+    {
+        "word": "luster",
+        "chinese": "【名】光泽，光辉",
+        "look": "1",
+        "id": "27732856",
+        "word_id": "4299"
+    },
+    {
+        "word": "lustrous",
+        "chinese": "【形】有光泽的",
+        "look": "1",
+        "id": "27732857",
+        "word_id": "4300"
+    },
+    {
+        "word": "magnification",
+        "chinese": "【名】放大，扩大",
+        "look": "1",
+        "id": "27732858",
+        "word_id": "6999"
+    },
+    {
+        "word": "malady",
+        "chinese": "【名】1. 疾病；2. （比喻）弊病",
+        "look": "1",
+        "id": "27732859",
+        "word_id": "2002"
+    },
+    {
+        "word": "mandate",
+        "chinese": "【名】【动】正式命令、授权",
+        "look": "1",
+        "id": "27732860",
+        "word_id": "1919"
+    },
+    {
+        "word": "mania",
+        "chinese": "【名】躁狂，着迷",
+        "look": "1",
+        "id": "27732861",
+        "word_id": "7000"
+    },
+    {
+        "word": "meager",
+        "chinese": "【形】1. 稀少；2. 匮乏，贫乏",
+        "look": "1",
+        "id": "27732862",
+        "word_id": "1737"
+    },
+    {
+        "word": "measly",
+        "chinese": "【形】少得可怜的，几乎没有的",
+        "look": "1",
+        "id": "27732863",
+        "word_id": "7001"
+    },
+    {
+        "word": "meddle",
+        "chinese": "【动】干涉：interrupt",
+        "look": "1",
+        "id": "27732864",
+        "word_id": "1599"
+    },
+    {
+        "word": "meditation",
+        "chinese": "【名】沉思，冥想 ",
+        "look": "1",
+        "id": "27732865",
+        "word_id": "2892"
+    },
+    {
+        "word": "menacing",
+        "chinese": "likely to cause harm or put one in danger adj. 威胁的",
+        "look": "1",
+        "id": "27732866",
+        "word_id": "283"
+    },
+    {
+        "word": "meritorious",
+        "chinese": "【形】值得称赞的",
+        "look": "1",
+        "id": "27732867",
+        "word_id": "7002"
+    },
+    {
+        "word": "meticulous",
+        "chinese": "adj. 极仔细的， 一丝不苟的",
+        "look": "1",
+        "id": "27732868",
+        "word_id": "1618"
+    },
+    {
+        "word": "mighty",
+        "chinese": "【形】强有力的，强大的",
+        "look": "1",
+        "id": "27732869",
+        "word_id": "5382"
+    },
+    {
+        "word": "militant",
+        "chinese": "【形】激进的，好战的",
+        "look": "1",
+        "id": "27732870",
+        "word_id": "2486"
+    },
+    {
+        "word": "mimic",
+        "chinese": "【动】模仿",
+        "look": "1",
+        "id": "27732871",
+        "word_id": "5736"
+    },
+    {
+        "word": "minute",
+        "chinese": "very small adj. 微小的",
+        "look": "1",
+        "id": "27732872",
+        "word_id": "3032"
+    },
+    {
+        "word": "mitigate",
+        "chinese": "vt.温和,缓和,减轻",
+        "look": "1",
+        "id": "27732873",
+        "word_id": "824"
+    },
+    {
+        "word": "moderate",
+        "chinese": "【动】使缓和，节制",
+        "look": "1",
+        "id": "27732874",
+        "word_id": "1556"
+    },
+    {
+        "word": "molest",
+        "chinese": "【动】骚扰，调戏",
+        "look": "1",
+        "id": "27732875",
+        "word_id": "7003"
+    },
+    {
+        "word": "monition",
+        "chinese": "【名】忠告，警告",
+        "look": "1",
+        "id": "27732876",
+        "word_id": "7004"
+    },
+    {
+        "word": "monotonous",
+        "chinese": "【形】单调的：dull",
+        "look": "1",
+        "id": "27732877",
+        "word_id": "1741"
+    },
+    {
+        "word": "monument",
+        "chinese": "【名】1. 纪念碑或建筑；2. 典范；3. 法律文书",
+        "look": "1",
+        "id": "27732878",
+        "word_id": "7005"
+    },
+    {
+        "word": "motif",
+        "chinese": "【名】1. （文学作品的）主题；2. 基本图案或设计",
+        "look": "1",
+        "id": "27732879",
+        "word_id": "3367"
+    },
+    {
+        "word": "muddle",
+        "chinese": "【名】糊涂，混乱",
+        "look": "1",
+        "id": "27732880",
+        "word_id": "1162"
+    },
+    {
+        "word": "muffle",
+        "chinese": "【动】压抑，捂住 ",
+        "look": "1",
+        "id": "27732881",
+        "word_id": "5859"
+    },
+    {
+        "word": "muster",
+        "chinese": "【动】集中，召集",
+        "look": "1",
+        "id": "27732882",
+        "word_id": "4372"
+    },
+    {
+        "word": "mutual",
+        "chinese": "【形】相互的",
+        "look": "1",
+        "id": "27732883",
+        "word_id": "5516"
+    },
+    {
+        "word": "muzzy",
+        "chinese": "【形】1. 模糊的；2. 迷糊的，昏头昏脑的",
+        "look": "1",
+        "id": "27732884",
+        "word_id": "7006"
+    },
+    {
+        "word": "myopic",
+        "chinese": "【形】1. 近视的；2. 缺乏远见的",
+        "look": "1",
+        "id": "27732885",
+        "word_id": "834"
+    },
+    {
+        "word": "nag",
+        "chinese": "【名】【动】唠叨，使烦恼 ",
+        "look": "1",
+        "id": "27732886",
+        "word_id": "7007"
+    },
+    {
+        "word": "natal",
+        "chinese": "【形】1. 出生的，先天的；2. 与臀有关的 ",
+        "look": "1",
+        "id": "27732887",
+        "word_id": "7008"
+    },
+    {
+        "word": "nebulous",
+        "chinese": "【形】1. 云雾状的；2. 朦胧的，模糊的",
+        "look": "1",
+        "id": "27732888",
+        "word_id": "2201"
+    },
+    {
+        "word": "necessitous",
+        "chinese": "【形】贫苦的，贫穷的",
+        "look": "1",
+        "id": "27732889",
+        "word_id": "7009"
+    },
+    {
+        "word": "negligible",
+        "chinese": "【形】可忽略的，无足轻重的",
+        "look": "1",
+        "id": "27732890",
+        "word_id": "1594"
+    },
+    {
+        "word": "nemesis",
+        "chinese": "【名】惩罚，报应（希腊神话中复仇女神的名字）",
+        "look": "1",
+        "id": "27732891",
+        "word_id": "838"
+    },
+    {
+        "word": "neutral",
+        "chinese": "not supporting either side of an argument, fight, war, etc. adj. 中立的",
+        "look": "1",
+        "id": "27732892",
+        "word_id": "840"
+    },
+    {
+        "word": "nibble",
+        "chinese": "v.啃，一点点地咬,慢慢啃",
+        "look": "1",
+        "id": "27732893",
+        "word_id": "7010"
+    },
+    {
+        "word": "nimble",
+        "chinese": "able to move quickly, easily, and lightly adj. 敏捷灵巧的; able to learn and understand things quickly and easily adj. 机智的",
+        "look": "1",
+        "id": "27732894",
+        "word_id": "301"
+    },
+    {
+        "word": "nominate",
+        "chinese": "【动】提名：propose",
+        "look": "1",
+        "id": "27732895",
+        "word_id": "5988"
+    },
+    {
+        "word": "nuance",
+        "chinese": "【名】1. 细微的差别；2. 微妙",
+        "look": "1",
+        "id": "27732896",
+        "word_id": "844"
+    },
+    {
+        "word": "obedient",
+        "chinese": "【形】顺从的，服从的",
+        "look": "1",
+        "id": "27732897",
+        "word_id": "4969"
+    },
+    {
+        "word": "obscene",
+        "chinese": "【形】淫秽的，下流的",
+        "look": "1",
+        "id": "27732898",
+        "word_id": "7011"
+    },
+    {
+        "word": "obscure",
+        "chinese": "【形】模糊不清的，暗淡的",
+        "look": "1",
+        "id": "27732899",
+        "word_id": "1312"
+    },
+    {
+        "word": "obsess",
+        "chinese": "【动】使痴迷",
+        "look": "1",
+        "id": "27732900",
+        "word_id": "7012"
+    },
+    {
+        "word": "offspring",
+        "chinese": "someone's child or children n. 子孙，后代",
+        "look": "1",
+        "id": "27732901",
+        "word_id": "4939"
+    },
+    {
+        "word": "omen",
+        "chinese": "【名】预兆",
+        "look": "1",
+        "id": "27732902",
+        "word_id": "4991"
+    },
+    {
+        "word": "ominous",
+        "chinese": "adj.不吉的,不祥的",
+        "look": "1",
+        "id": "27732903",
+        "word_id": "3201"
+    },
+    {
+        "word": "onslaught",
+        "chinese": "【名】猛攻",
+        "look": "1",
+        "id": "27732904",
+        "word_id": "7013"
+    },
+    {
+        "word": "optimize",
+        "chinese": "【动】使最优",
+        "look": "1",
+        "id": "27732905",
+        "word_id": "7014"
+    },
+    {
+        "word": "opulent",
+        "chinese": "very comfortable and expensive adj. 豪华的; very wealthy adj. 富裕",
+        "look": "1",
+        "id": "27732906",
+        "word_id": "2915"
+    },
+    {
+        "word": "oracle",
+        "chinese": "【名】1. （古希腊聆听神谕的）巫女；2. 占卜，预言",
+        "look": "1",
+        "id": "27732907",
+        "word_id": "5412"
+    },
+    {
+        "word": "overindulgence",
+        "chinese": "【名】过分放纵",
+        "look": "1",
+        "id": "27732908",
+        "word_id": "7015"
+    },
+    {
+        "word": "pacify",
+        "chinese": "【动】使平静，安抚",
+        "look": "1",
+        "id": "27732909",
+        "word_id": "4427"
+    },
+    {
+        "word": "palatable",
+        "chinese": "【释义】adj. agreeable to the palate or taste 可口的，美味的",
+        "look": "1",
+        "id": "27732910",
+        "word_id": "2212"
+    },
+    {
+        "word": "palliate",
+        "chinese": "【动】减轻，缓和",
+        "look": "1",
+        "id": "27732911",
+        "word_id": "2934"
+    },
+    {
+        "word": "pallid",
+        "chinese": "【释】adj. pale; wan. 苍白的，惨淡的",
+        "look": "1",
+        "id": "27732912",
+        "word_id": "325"
+    },
+    {
+        "word": "palpable",
+        "chinese": "【形】1. 可触及的；2. 易察觉的",
+        "look": "1",
+        "id": "27732913",
+        "word_id": "2386"
+    },
+    {
+        "word": "paltry",
+        "chinese": "adj.微不足道的，微小的，不重要的",
+        "look": "1",
+        "id": "27732914",
+        "word_id": "4432"
+    },
+    {
+        "word": "paradigm",
+        "chinese": "a model for something that explains it or shows how it can be produced n. 范例，范式",
+        "look": "1",
+        "id": "27732915",
+        "word_id": "864"
+    },
+    {
+        "word": "parallel",
+        "chinese": "【动】1. 与……平行；2. 与……可比",
+        "look": "1",
+        "id": "27732916",
+        "word_id": "7016"
+    },
+    {
+        "word": "paramount",
+        "chinese": "adj.最高的,至上的;首要的,主要的",
+        "look": "1",
+        "id": "27732917",
+        "word_id": "865"
+    },
+    {
+        "word": "parity",
+        "chinese": "the quality or state of being equal or equivalent n. 平等；相等",
+        "look": "1",
+        "id": "27732918",
+        "word_id": "330"
+    },
+    {
+        "word": "parry",
+        "chinese": "【动】挡开、闪开（打击、武器）",
+        "look": "1",
+        "id": "27732919",
+        "word_id": "3235"
+    },
+    {
+        "word": "particularize",
+        "chinese": "【动】逐一叙述，详述",
+        "look": "1",
+        "id": "27732920",
+        "word_id": "7017"
+    },
+    {
+        "word": "partisan",
+        "chinese": "【形】党派性的：biased",
+        "look": "1",
+        "id": "27732921",
+        "word_id": "867"
+    },
+    {
+        "word": "paternalistic",
+        "chinese": "【形】家长式的  ",
+        "look": "1",
+        "id": "27732922",
+        "word_id": "7018"
+    },
+    {
+        "word": "patronizing",
+        "chinese": "【形】1. 资助的，赞助的；2. 居高临下的",
+        "look": "1",
+        "id": "27732923",
+        "word_id": "3098"
+    },
+    {
+        "word": "pecuniary",
+        "chinese": "relating to or in the form of money adj. 金钱的，金钱上的",
+        "look": "1",
+        "id": "27732924",
+        "word_id": "332"
+    },
+    {
+        "word": "pedagogue",
+        "chinese": "【名】（尤指无聊、教条的）教师",
+        "look": "1",
+        "id": "27732925",
+        "word_id": "333"
+    },
+    {
+        "word": "penury",
+        "chinese": "n.赤贫,缺乏",
+        "look": "1",
+        "id": "27732926",
+        "word_id": "4905"
+    },
+    {
+        "word": "perceptive",
+        "chinese": "adj.洞察力强的,敏锐的,理解力强的",
+        "look": "1",
+        "id": "27732927",
+        "word_id": "4456"
+    },
+    {
+        "word": "perpetuate",
+        "chinese": "vt.使永存,使永记不忘",
+        "look": "1",
+        "id": "27732928",
+        "word_id": "874"
+    },
+    {
+        "word": "perseverance",
+        "chinese": "【名】坚持不懈，不屈不饶",
+        "look": "1",
+        "id": "27732929",
+        "word_id": "7019"
+    },
+    {
+        "word": "pester",
+        "chinese": "【动】使烦恼，纠缠",
+        "look": "1",
+        "id": "27732930",
+        "word_id": "3118"
+    },
+    {
+        "word": "petition",
+        "chinese": "【名】请愿，祈求",
+        "look": "1",
+        "id": "27732931",
+        "word_id": "2609"
+    },
+    {
+        "word": "petulant",
+        "chinese": "【形】易怒的，脾气坏的",
+        "look": "1",
+        "id": "27732932",
+        "word_id": "1615"
+    },
+    {
+        "word": "pilfer",
+        "chinese": "【动】偷窃（小东西） ",
+        "look": "1",
+        "id": "27732933",
+        "word_id": "1698"
+    },
+    {
+        "word": "pilferage",
+        "chinese": "【名】偷窃（小东西）",
+        "look": "1",
+        "id": "27732934",
+        "word_id": "7020"
+    },
+    {
+        "word": "pinch",
+        "chinese": "【动】1. （用食指和拇指）拗（niu）；2. 盗窃",
+        "look": "1",
+        "id": "27732935",
+        "word_id": "6589"
+    },
+    {
+        "word": "pinnacle",
+        "chinese": "【名】顶点，顶峰",
+        "look": "1",
+        "id": "27732936",
+        "word_id": "343"
+    },
+    {
+        "word": "piracy",
+        "chinese": "【名】1. 海上掠夺；2. 盗版",
+        "look": "1",
+        "id": "27732937",
+        "word_id": "7021"
+    },
+    {
+        "word": "pit",
+        "chinese": "【名】坑，矿坑",
+        "look": "1",
+        "id": "27732938",
+        "word_id": "7022"
+    },
+    {
+        "word": "pivot",
+        "chinese": "【名】枢纽，支点",
+        "look": "1",
+        "id": "27732939",
+        "word_id": "7023"
+    },
+    {
+        "word": "placatory",
+        "chinese": "【形】安抚的，抚慰的",
+        "look": "1",
+        "id": "27732940",
+        "word_id": "2905"
+    },
+    {
+        "word": "placid",
+        "chinese": "【形】（人或动物）平和的，温和的",
+        "look": "1",
+        "id": "27732941",
+        "word_id": "884"
+    },
+    {
+        "word": "placidity",
+        "chinese": "【名】平静",
+        "look": "1",
+        "id": "27732942",
+        "word_id": "7024"
+    },
+    {
+        "word": "plagiarism",
+        "chinese": "【名】剽窃（著作等）",
+        "look": "1",
+        "id": "27732943",
+        "word_id": "4478"
+    },
+    {
+        "word": "plagiarize",
+        "chinese": "【动】剽窃（著作等）",
+        "look": "1",
+        "id": "27732944",
+        "word_id": "2947"
+    },
+    {
+        "word": "plethora",
+        "chinese": "n.过多,过剩,过量",
+        "look": "1",
+        "id": "27732945",
+        "word_id": "887"
+    },
+    {
+        "word": "ploy",
+        "chinese": "【名】策略",
+        "look": "1",
+        "id": "27732946",
+        "word_id": "2313"
+    },
+    {
+        "word": "plunge",
+        "chinese": "【动】往下栽，骤降",
+        "look": "1",
+        "id": "27732947",
+        "word_id": "7025"
+    },
+    {
+        "word": "poignant",
+        "chinese": "【形】1. 伤心的；2. 强烈的",
+        "look": "1",
+        "id": "27732948",
+        "word_id": "2658"
+    },
+    {
+        "word": "polite",
+        "chinese": "【形】有礼貌的",
+        "look": "1",
+        "id": "27732949",
+        "word_id": "7026"
+    },
+    {
+        "word": "politic",
+        "chinese": "【形】考虑周到的",
+        "look": "1",
+        "id": "27732950",
+        "word_id": "4485"
+    },
+    {
+        "word": "ponder",
+        "chinese": "【动】沉思",
+        "look": "1",
+        "id": "27732951",
+        "word_id": "3205"
+    },
+    {
+        "word": "ponderance",
+        "chinese": "【名】重量，重要性",
+        "look": "1",
+        "id": "27732952",
+        "word_id": "7027"
+    },
+    {
+        "word": "portentous",
+        "chinese": "【形】预兆的，凶兆的",
+        "look": "1",
+        "id": "27732953",
+        "word_id": "2839"
+    },
+    {
+        "word": "portfolio",
+        "chinese": "【名】1. 公文包；2. 投资组合",
+        "look": "1",
+        "id": "27732954",
+        "word_id": "7028"
+    },
+    {
+        "word": "potency",
+        "chinese": "【名】能力，力量",
+        "look": "1",
+        "id": "27732955",
+        "word_id": "7029"
+    },
+    {
+        "word": "poverty",
+        "chinese": "【名】贫困，贫穷",
+        "look": "1",
+        "id": "27732956",
+        "word_id": "7030"
+    },
+    {
+        "word": "precaution",
+        "chinese": "【名】预防，谨慎：safeguard",
+        "look": "1",
+        "id": "27732957",
+        "word_id": "7031"
+    },
+    {
+        "word": "predestinate",
+        "chinese": "【动】预先确定，注定",
+        "look": "1",
+        "id": "27732958",
+        "word_id": "7032"
+    },
+    {
+        "word": "prelude",
+        "chinese": "【名】序曲，序幕",
+        "look": "1",
+        "id": "27732959",
+        "word_id": "5013"
+    },
+    {
+        "word": "preponderant",
+        "chinese": "【形】占有优势的",
+        "look": "1",
+        "id": "27732960",
+        "word_id": "7033"
+    },
+    {
+        "word": "presage",
+        "chinese": "【动】预言：foretell",
+        "look": "1",
+        "id": "27732961",
+        "word_id": "900"
+    },
+    {
+        "word": "prevail",
+        "chinese": "【动】1. 占上风；2. 盛行",
+        "look": "1",
+        "id": "27732962",
+        "word_id": "4510"
+    },
+    {
+        "word": "pristine",
+        "chinese": "adj.原始状态的,未受损的,新鲜而纯净的,清新的",
+        "look": "1",
+        "id": "27732963",
+        "word_id": "904"
+    },
+    {
+        "word": "progeny",
+        "chinese": "descendant n. 子孙，后裔，后代",
+        "look": "1",
+        "id": "27732964",
+        "word_id": "5123"
+    },
+    {
+        "word": "prominent",
+        "chinese": "【形】1. 突起的；2. 杰出的，卓越的",
+        "look": "1",
+        "id": "27732965",
+        "word_id": "909"
+    },
+    {
+        "word": "prophecy",
+        "chinese": "【名】预言：prediction",
+        "look": "1",
+        "id": "27732966",
+        "word_id": "7034"
+    },
+    {
+        "word": "propitious",
+        "chinese": "【形】吉祥的，吉利的",
+        "look": "1",
+        "id": "27732967",
+        "word_id": "2656"
+    },
+    {
+        "word": "proposition",
+        "chinese": "【名】主张，提案",
+        "look": "1",
+        "id": "27732968",
+        "word_id": "5353"
+    },
+    {
+        "word": "prosaic",
+        "chinese": "adj.无灵感的,无想象力的;无聊的,平淡的,乏味的",
+        "look": "1",
+        "id": "27732969",
+        "word_id": "914"
+    },
+    {
+        "word": "proscenium",
+        "chinese": "【名】舞台，舞台前部装置（包括幕布，拱形墙等）",
+        "look": "1",
+        "id": "27732970",
+        "word_id": "7035"
+    },
+    {
+        "word": "prototype",
+        "chinese": "【释义】n. an original model on which something is patterned 原型",
+        "look": "1",
+        "id": "27732971",
+        "word_id": "4528"
+    },
+    {
+        "word": "provident",
+        "chinese": "【形】1. 为将来谋划的；2. 节俭的",
+        "look": "1",
+        "id": "27732972",
+        "word_id": "4531"
+    },
+    {
+        "word": "provoke",
+        "chinese": "【动】激怒，煽动",
+        "look": "1",
+        "id": "27732973",
+        "word_id": "920"
+    },
+    {
+        "word": "prudent",
+        "chinese": "【形】1. 审慎的，明智的；2. 同provident",
+        "look": "1",
+        "id": "27732974",
+        "word_id": "921"
+    },
+    {
+        "word": "pry",
+        "chinese": "【动】1. 窥探，打听；2. 撬",
+        "look": "1",
+        "id": "27732975",
+        "word_id": "6602"
+    },
+    {
+        "word": "pseudonym",
+        "chinese": "a fictitious name, esp. one used by an author n. 假名，化名,(尤指)笔名",
+        "look": "1",
+        "id": "27732976",
+        "word_id": "922"
+    },
+    {
+        "word": "pugilist",
+        "chinese": "【名】拳击运动员，拳师",
+        "look": "1",
+        "id": "27732977",
+        "word_id": "4537"
+    },
+    {
+        "word": "pulverize",
+        "chinese": "【动】粉碎，弄碎 ",
+        "look": "1",
+        "id": "27732978",
+        "word_id": "1177"
+    },
+    {
+        "word": "puritan",
+        "chinese": "【名】清教徒",
+        "look": "1",
+        "id": "27732979",
+        "word_id": "7036"
+    },
+    {
+        "word": "puritanical",
+        "chinese": "adj.清教徒式的,道德极严格的",
+        "look": "1",
+        "id": "27732980",
+        "word_id": "7037"
+    },
+    {
+        "word": "purloin",
+        "chinese": "【动】偷窃  ",
+        "look": "1",
+        "id": "27732981",
+        "word_id": "7038"
+    },
+    {
+        "word": "quandary",
+        "chinese": "【名】困惑，为难：predicament",
+        "look": "1",
+        "id": "27732982",
+        "word_id": "3137"
+    },
+    {
+        "word": "quell",
+        "chinese": "【动】平息，减轻",
+        "look": "1",
+        "id": "27732983",
+        "word_id": "1632"
+    },
+    {
+        "word": "query",
+        "chinese": "【动】询问，问题：question",
+        "look": "1",
+        "id": "27732984",
+        "word_id": "4555"
+    },
+    {
+        "word": "quiescence",
+        "chinese": "【动】静止，静态",
+        "look": "1",
+        "id": "27732985",
+        "word_id": "7039"
+    },
+    {
+        "word": "quintessence",
+        "chinese": "【名】1. 精华；2. 典范",
+        "look": "1",
+        "id": "27732986",
+        "word_id": "4556"
+    },
+    {
+        "word": "radiant",
+        "chinese": "【形】1. 辐射的；2. 容光焕发的",
+        "look": "1",
+        "id": "27732987",
+        "word_id": "7040"
+    },
+    {
+        "word": "rancor",
+        "chinese": "【名】怨恨：enmity / resentment",
+        "look": "1",
+        "id": "27732988",
+        "word_id": "2919"
+    },
+    {
+        "word": "rankle",
+        "chinese": "【动】使痛苦不已",
+        "look": "1",
+        "id": "27732989",
+        "word_id": "4562"
+    },
+    {
+        "word": "ransom",
+        "chinese": "【名】赎金",
+        "look": "1",
+        "id": "27732990",
+        "word_id": "7041"
+    },
+    {
+        "word": "ravenous",
+        "chinese": "【形】1. 极饿的；2. （指饥饿、渴望等）极度的",
+        "look": "1",
+        "id": "27732991",
+        "word_id": "935"
+    },
+    {
+        "word": "raze",
+        "chinese": "vt.彻底摧毁,将…夷为平地",
+        "look": "1",
+        "id": "27732992",
+        "word_id": "1810"
+    },
+    {
+        "word": "rebuke",
+        "chinese": "【动】【名】责难",
+        "look": "1",
+        "id": "27732993",
+        "word_id": "1180"
+    },
+    {
+        "word": "recognize",
+        "chinese": "【动】1.辨认出；2. 承认，认识到",
+        "look": "1",
+        "id": "27732994",
+        "word_id": "7042"
+    },
+    {
+        "word": "redundancy",
+        "chinese": "n.过多,过剩,多余",
+        "look": "1",
+        "id": "27732995",
+        "word_id": "944"
+    },
+    {
+        "word": "reign",
+        "chinese": "【动】当政，统治",
+        "look": "1",
+        "id": "27732996",
+        "word_id": "5583"
+    },
+    {
+        "word": "relieve",
+        "chinese": "【动】解除，减轻",
+        "look": "1",
+        "id": "27732997",
+        "word_id": "7043"
+    },
+    {
+        "word": "relinquish",
+        "chinese": "vt.交出,让给,放弃",
+        "look": "1",
+        "id": "27732998",
+        "word_id": "2698"
+    },
+    {
+        "word": "remiss",
+        "chinese": "【形】玩忽职守的，马虎的",
+        "look": "1",
+        "id": "27732999",
+        "word_id": "4590"
+    },
+    {
+        "word": "replenish",
+        "chinese": "【动】补充   ",
+        "look": "1",
+        "id": "27733000",
+        "word_id": "4600"
+    },
+    {
+        "word": "reprimand",
+        "chinese": "【动】【名】申斥，惩戒",
+        "look": "1",
+        "id": "27733001",
+        "word_id": "1870"
+    },
+    {
+        "word": "reproach",
+        "chinese": "【动】责备  ",
+        "look": "1",
+        "id": "27733002",
+        "word_id": "1703"
+    },
+    {
+        "word": "reprove",
+        "chinese": "【动】责骂，指摘",
+        "look": "1",
+        "id": "27733003",
+        "word_id": "5008"
+    },
+    {
+        "word": "rescind",
+        "chinese": "vt.废除,取消,撤销,解除",
+        "look": "1",
+        "id": "27733004",
+        "word_id": "2758"
+    },
+    {
+        "word": "rescue",
+        "chinese": "【动】营救，救援  ",
+        "look": "1",
+        "id": "27733005",
+        "word_id": "7044"
+    },
+    {
+        "word": "restrained",
+        "chinese": "【形】节制的，克制的",
+        "look": "1",
+        "id": "27733006",
+        "word_id": "7045"
+    },
+    {
+        "word": "resuscitation",
+        "chinese": "【名】复活，复苏 ",
+        "look": "1",
+        "id": "27733007",
+        "word_id": "2803"
+    },
+    {
+        "word": "retard",
+        "chinese": "【动】延迟",
+        "look": "1",
+        "id": "27733008",
+        "word_id": "396"
+    },
+    {
+        "word": "retort",
+        "chinese": "【动】反驳",
+        "look": "1",
+        "id": "27733009",
+        "word_id": "398"
+    },
+    {
+        "word": "retract",
+        "chinese": "【动】撤回，撤销：withdraw",
+        "look": "1",
+        "id": "27733010",
+        "word_id": "3187"
+    },
+    {
+        "word": "retreat",
+        "chinese": "v. 撤退，退却to avoid a dangerous, unpleasant, or embarrassing situation, especially by moving away from it",
+        "look": "1",
+        "id": "27733011",
+        "word_id": "6308"
+    },
+    {
+        "word": "retrieve",
+        "chinese": "vt.恢复,寻回",
+        "look": "1",
+        "id": "27733012",
+        "word_id": "1415"
+    },
+    {
+        "word": "retrospect",
+        "chinese": "【名】回顾，回想：review past events",
+        "look": "1",
+        "id": "27733013",
+        "word_id": "7046"
+    },
+    {
+        "word": "revive",
+        "chinese": "【动】复兴，复活",
+        "look": "1",
+        "id": "27733014",
+        "word_id": "2811"
+    },
+    {
+        "word": "revivify",
+        "chinese": "【动】使再生，使振奋精神",
+        "look": "1",
+        "id": "27733015",
+        "word_id": "7047"
+    },
+    {
+        "word": "revolution",
+        "chinese": "【名】1. （天体的）公转，旋转；2. 革命，革新",
+        "look": "1",
+        "id": "27733016",
+        "word_id": "2373"
+    },
+    {
+        "word": "revolve",
+        "chinese": "【动】1. 旋转；2. 细想",
+        "look": "1",
+        "id": "27733017",
+        "word_id": "7048"
+    },
+    {
+        "word": "rigorous",
+        "chinese": "【形】严密的，缜密的",
+        "look": "1",
+        "id": "27733018",
+        "word_id": "2480"
+    },
+    {
+        "word": "rueful",
+        "chinese": "【形】后悔的，悔恨的 ",
+        "look": "1",
+        "id": "27733019",
+        "word_id": "7049"
+    },
+    {
+        "word": "rumination",
+        "chinese": "【名】沉思",
+        "look": "1",
+        "id": "27733020",
+        "word_id": "2889"
+    },
+    {
+        "word": "ruse",
+        "chinese": "a plan or trick used for hiding your true intentions n. 诡计",
+        "look": "1",
+        "id": "27733021",
+        "word_id": "403"
+    },
+    {
+        "word": "sagacious",
+        "chinese": "adj.精明的,有判断力的",
+        "look": "1",
+        "id": "27733022",
+        "word_id": "2134"
+    },
+    {
+        "word": "salvage",
+        "chinese": "n.救援费;海上营救 v.救助;营救",
+        "look": "1",
+        "id": "27733023",
+        "word_id": "2126"
+    },
+    {
+        "word": "sashay",
+        "chinese": "【名】到处走动",
+        "look": "1",
+        "id": "27733024",
+        "word_id": "7050"
+    },
+    {
+        "word": "satiate",
+        "chinese": "vt.充分满足,使厌腻",
+        "look": "1",
+        "id": "27733025",
+        "word_id": "4644"
+    },
+    {
+        "word": "scheme",
+        "chinese": "【名】阴谋，诡计",
+        "look": "1",
+        "id": "27733026",
+        "word_id": "7051"
+    },
+    {
+        "word": "score",
+        "chinese": "【名】1. 分数；2. 乐谱； 3. 二十",
+        "look": "1",
+        "id": "27733027",
+        "word_id": "7052"
+    },
+    {
+        "word": "scull",
+        "chinese": "【名】短桨，橹",
+        "look": "1",
+        "id": "27733028",
+        "word_id": "7053"
+    },
+    {
+        "word": "sect",
+        "chinese": "【名】宗派，教派 ",
+        "look": "1",
+        "id": "27733029",
+        "word_id": "4661"
+    },
+    {
+        "word": "security",
+        "chinese": "【名】1. 安全；2. 有价证券",
+        "look": "1",
+        "id": "27733030",
+        "word_id": "7054"
+    },
+    {
+        "word": "sequence",
+        "chinese": "【名】顺序：order of succession",
+        "look": "1",
+        "id": "27733031",
+        "word_id": "7055"
+    },
+    {
+        "word": "serene",
+        "chinese": "calm, peaceful, and untroubled; tranquil adj. （景色）宁静的；（人）安详的",
+        "look": "1",
+        "id": "27733032",
+        "word_id": "977"
+    },
+    {
+        "word": "serenity",
+        "chinese": "【名】宁静，安详",
+        "look": "1",
+        "id": "27733033",
+        "word_id": "5490"
+    },
+    {
+        "word": "shrewd",
+        "chinese": "adj.机灵的,精明的",
+        "look": "1",
+        "id": "27733034",
+        "word_id": "4681"
+    },
+    {
+        "word": "sin",
+        "chinese": "【名】罪孽",
+        "look": "1",
+        "id": "27733035",
+        "word_id": "7056"
+    },
+    {
+        "word": "sinister",
+        "chinese": "adj.危险的,不吉祥的,凶兆的,险恶的",
+        "look": "1",
+        "id": "27733036",
+        "word_id": "1189"
+    },
+    {
+        "word": "skeptic",
+        "chinese": "【名】怀疑者，怀疑论者",
+        "look": "1",
+        "id": "27733037",
+        "word_id": "4689"
+    },
+    {
+        "word": "slacken",
+        "chinese": "【动】使松弛，变迟缓 ",
+        "look": "1",
+        "id": "27733038",
+        "word_id": "4693"
+    },
+    {
+        "word": "slander",
+        "chinese": "n.诽谤，诋毁 vt.造谣中伤,诽谤，诋毁",
+        "look": "1",
+        "id": "27733039",
+        "word_id": "5152"
+    },
+    {
+        "word": "slaughter",
+        "chinese": "【动】【名】屠杀，屠宰",
+        "look": "1",
+        "id": "27733040",
+        "word_id": "5080"
+    },
+    {
+        "word": "slavish",
+        "chinese": "【形】奴隶的，奴性的",
+        "look": "1",
+        "id": "27733041",
+        "word_id": "5194"
+    },
+    {
+        "word": "sleazy",
+        "chinese": "【形】肮脏的，污秽的",
+        "look": "1",
+        "id": "27733042",
+        "word_id": "7057"
+    },
+    {
+        "word": "smirch",
+        "chinese": "【名】污点/【动】弄脏，玷污",
+        "look": "1",
+        "id": "27733043",
+        "word_id": "7058"
+    },
+    {
+        "word": "smother",
+        "chinese": "【动】使窒息，透不过气",
+        "look": "1",
+        "id": "27733044",
+        "word_id": "5309"
+    },
+    {
+        "word": "smudge",
+        "chinese": "【动】造成污迹",
+        "look": "1",
+        "id": "27733045",
+        "word_id": "7059"
+    },
+    {
+        "word": "sneak",
+        "chinese": "【动】1. 潜行；2. 偷偷携带，夹带",
+        "look": "1",
+        "id": "27733046",
+        "word_id": "7060"
+    },
+    {
+        "word": "solemn",
+        "chinese": "adj.严肃的,庄重的,郑重的",
+        "look": "1",
+        "id": "27733047",
+        "word_id": "1425"
+    },
+    {
+        "word": "soloist",
+        "chinese": "【名】独奏者：performer",
+        "look": "1",
+        "id": "27733048",
+        "word_id": "7061"
+    },
+    {
+        "word": "somber",
+        "chinese": "adj.阴森的,昏暗的,阴天的;忧郁的",
+        "look": "1",
+        "id": "27733049",
+        "word_id": "1590"
+    },
+    {
+        "word": "soothe",
+        "chinese": "【动】安慰，抚慰",
+        "look": "1",
+        "id": "27733050",
+        "word_id": "2508"
+    },
+    {
+        "word": "sooty",
+        "chinese": "【形】煤烟熏黑的，乌黑的  ",
+        "look": "1",
+        "id": "27733051",
+        "word_id": "7062"
+    },
+    {
+        "word": "spat",
+        "chinese": "【名】1. 口角，小争吵；2. 鞋套 ",
+        "look": "1",
+        "id": "27733052",
+        "word_id": "4713"
+    },
+    {
+        "word": "speck",
+        "chinese": "【名】斑点，污点",
+        "look": "1",
+        "id": "27733053",
+        "word_id": "7063"
+    },
+    {
+        "word": "specter",
+        "chinese": "【名】鬼怪，幽灵",
+        "look": "1",
+        "id": "27733054",
+        "word_id": "6258"
+    },
+    {
+        "word": "speculation",
+        "chinese": "n. 思考,思索,推测，推断；投机买卖/生意guesses about why something has happened or what might happen; attempts to make a large profit by buying and selling things such as property or stock",
+        "look": "1",
+        "id": "27733055",
+        "word_id": "6621"
+    },
+    {
+        "word": "spin",
+        "chinese": "v.1.纺;使旋转2. 杜撰",
+        "look": "1",
+        "id": "27733056",
+        "word_id": "7064"
+    },
+    {
+        "word": "sponsor",
+        "chinese": "【动】赞助",
+        "look": "1",
+        "id": "27733057",
+        "word_id": "7065"
+    },
+    {
+        "word": "sporadic",
+        "chinese": "【形】偶尔发生的：irregular",
+        "look": "1",
+        "id": "27733058",
+        "word_id": "1744"
+    },
+    {
+        "word": "stake",
+        "chinese": "【名】桩，柱",
+        "look": "1",
+        "id": "27733059",
+        "word_id": "7066"
+    },
+    {
+        "word": "statue",
+        "chinese": "【名】雕像，塑像",
+        "look": "1",
+        "id": "27733060",
+        "word_id": "7067"
+    },
+    {
+        "word": "stature",
+        "chinese": "【名】身材，身高：height",
+        "look": "1",
+        "id": "27733061",
+        "word_id": "2284"
+    },
+    {
+        "word": "status",
+        "chinese": "【名】1. 身份，地位；2. 情形，状况",
+        "look": "1",
+        "id": "27733062",
+        "word_id": "7068"
+    },
+    {
+        "word": "statute",
+        "chinese": "【名】法令，法规",
+        "look": "1",
+        "id": "27733063",
+        "word_id": "4724"
+    },
+    {
+        "word": "stifle",
+        "chinese": "v.(使)窒息,(使)窒闷",
+        "look": "1",
+        "id": "27733064",
+        "word_id": "1799"
+    },
+    {
+        "word": "stipulate",
+        "chinese": "【动】（在协议中）列明、约定",
+        "look": "1",
+        "id": "27733065",
+        "word_id": "1871"
+    },
+    {
+        "word": "stipulation",
+        "chinese": "【名】条文",
+        "look": "1",
+        "id": "27733066",
+        "word_id": "7069"
+    },
+    {
+        "word": "strangle",
+        "chinese": "【动】使窒息，扼死",
+        "look": "1",
+        "id": "27733067",
+        "word_id": "7070"
+    },
+    {
+        "word": "stratagem",
+        "chinese": "n.诡计,计谋,花招",
+        "look": "1",
+        "id": "27733068",
+        "word_id": "2312"
+    },
+    {
+        "word": "strategy",
+        "chinese": "【名】战略",
+        "look": "1",
+        "id": "27733069",
+        "word_id": "7071"
+    },
+    {
+        "word": "stratify",
+        "chinese": "to form or be formed in layers or strata 成层; 使分层",
+        "look": "1",
+        "id": "27733070",
+        "word_id": "434"
+    },
+    {
+        "word": "submissive",
+        "chinese": "【形】顺从的",
+        "look": "1",
+        "id": "27733071",
+        "word_id": "1459"
+    },
+    {
+        "word": "successor",
+        "chinese": "【名】继任者，继承人",
+        "look": "1",
+        "id": "27733072",
+        "word_id": "7072"
+    },
+    {
+        "word": "suffocate",
+        "chinese": "【动】使窒息、呼吸困难",
+        "look": "1",
+        "id": "27733073",
+        "word_id": "7073"
+    },
+    {
+        "word": "sully",
+        "chinese": "【动】玷污，破坏名声",
+        "look": "1",
+        "id": "27733074",
+        "word_id": "442"
+    },
+    {
+        "word": "summit",
+        "chinese": "【名】1. 最高点，峰顶；2. 高层会议，峰会",
+        "look": "1",
+        "id": "27733075",
+        "word_id": "4746"
+    },
+    {
+        "word": "superfluity",
+        "chinese": "【名】过剩，多余品",
+        "look": "1",
+        "id": "27733076",
+        "word_id": "444"
+    },
+    {
+        "word": "superimpose",
+        "chinese": "【动】使重叠，使叠加",
+        "look": "1",
+        "id": "27733077",
+        "word_id": "4748"
+    },
+    {
+        "word": "superpose",
+        "chinese": "【动】放在上面，重叠",
+        "look": "1",
+        "id": "27733078",
+        "word_id": "7074"
+    },
+    {
+        "word": "supreme",
+        "chinese": "【形】最高的，至上的",
+        "look": "1",
+        "id": "27733079",
+        "word_id": "7075"
+    },
+    {
+        "word": "surfeit",
+        "chinese": "【名】过量，过度 ",
+        "look": "1",
+        "id": "27733080",
+        "word_id": "1778"
+    },
+    {
+        "word": "surreptitious",
+        "chinese": "【形】秘密的，偷偷的",
+        "look": "1",
+        "id": "27733081",
+        "word_id": "1008"
+    },
+    {
+        "word": "swarm",
+        "chinese": "【名】（蜂、蚂蚁）群/【动】云集",
+        "look": "1",
+        "id": "27733082",
+        "word_id": "4757"
+    },
+    {
+        "word": "sweltering",
+        "chinese": "【形】闷热的：uncomfortably hot",
+        "look": "1",
+        "id": "27733083",
+        "word_id": "6350"
+    },
+    {
+        "word": "swipe",
+        "chinese": "【动】1. 重击，挥击；2. 尖锐地批评",
+        "look": "1",
+        "id": "27733084",
+        "word_id": "7076"
+    },
+    {
+        "word": "swivel",
+        "chinese": "【名】【动】旋转",
+        "look": "1",
+        "id": "27733085",
+        "word_id": "7077"
+    },
+    {
+        "word": "tact",
+        "chinese": "【名】机敏；为人圆通",
+        "look": "1",
+        "id": "27733086",
+        "word_id": "7078"
+    },
+    {
+        "word": "tactic",
+        "chinese": "【名】策略，战术",
+        "look": "1",
+        "id": "27733087",
+        "word_id": "7079"
+    },
+    {
+        "word": "tedious",
+        "chinese": "adj.乏味的,单调的",
+        "look": "1",
+        "id": "27733088",
+        "word_id": "1307"
+    },
+    {
+        "word": "tenacity",
+        "chinese": "【名】坚韧，坚持不懈：persistence",
+        "look": "1",
+        "id": "27733089",
+        "word_id": "2358"
+    },
+    {
+        "word": "tentative",
+        "chinese": "adj.试探性的,试验的,尝试性的",
+        "look": "1",
+        "id": "27733090",
+        "word_id": "2141"
+    },
+    {
+        "word": "therapeutics",
+        "chinese": "【名】治疗学，治疗法",
+        "look": "1",
+        "id": "27733091",
+        "word_id": "7080"
+    },
+    {
+        "word": "threatening",
+        "chinese": "【形】胁迫的",
+        "look": "1",
+        "id": "27733092",
+        "word_id": "7081"
+    },
+    {
+        "word": "thresh",
+        "chinese": "【动】1. 打（麦粒）；2. 反复地推敲",
+        "look": "1",
+        "id": "27733093",
+        "word_id": "7082"
+    },
+    {
+        "word": "thrifty",
+        "chinese": "given to or marked by economy and good management adj. 节俭的, 节省的",
+        "look": "1",
+        "id": "27733094",
+        "word_id": "458"
+    },
+    {
+        "word": "throttle",
+        "chinese": "【动】勒死，使窒息/【名】控制阀门",
+        "look": "1",
+        "id": "27733095",
+        "word_id": "7083"
+    },
+    {
+        "word": "thwart",
+        "chinese": "【动】阻止",
+        "look": "1",
+        "id": "27733096",
+        "word_id": "1025"
+    },
+    {
+        "word": "torment",
+        "chinese": "【动】【名】（肉体或精神上）折磨",
+        "look": "1",
+        "id": "27733097",
+        "word_id": "4956"
+    },
+    {
+        "word": "traduce",
+        "chinese": "【动】诋毁，中伤",
+        "look": "1",
+        "id": "27733098",
+        "word_id": "4970"
+    },
+    {
+        "word": "tranquility",
+        "chinese": "【名】宁静，安宁",
+        "look": "1",
+        "id": "27733099",
+        "word_id": "5801"
+    },
+    {
+        "word": "tremulous",
+        "chinese": "【形】颤抖的；紧张的",
+        "look": "1",
+        "id": "27733100",
+        "word_id": "1821"
+    },
+    {
+        "word": "trickery",
+        "chinese": "【名】欺骗，花招",
+        "look": "1",
+        "id": "27733101",
+        "word_id": "5222"
+    },
+    {
+        "word": "trifle",
+        "chinese": "【名】无足轻重的东西/【动】轻视",
+        "look": "1",
+        "id": "27733102",
+        "word_id": "1408"
+    },
+    {
+        "word": "trifling",
+        "chinese": "having little value or importance adj. 微不足道的，不重要的",
+        "look": "1",
+        "id": "27733103",
+        "word_id": "4957"
+    },
+    {
+        "word": "triumph",
+        "chinese": "【名】【动】凯旋，胜利",
+        "look": "1",
+        "id": "27733104",
+        "word_id": "5283"
+    },
+    {
+        "word": "trivial",
+        "chinese": "adj.琐碎的,没有价值的,没有意义的",
+        "look": "1",
+        "id": "27733105",
+        "word_id": "2778"
+    },
+    {
+        "word": "twirl",
+        "chinese": "【动】【名】快速转动、旋转",
+        "look": "1",
+        "id": "27733106",
+        "word_id": "7084"
+    },
+    {
+        "word": "unduplicated",
+        "chinese": "【形】无法复制的",
+        "look": "1",
+        "id": "27733107",
+        "word_id": "7085"
+    },
+    {
+        "word": "unparalleled",
+        "chinese": "adj.无比的,无双的,空前的",
+        "look": "1",
+        "id": "27733108",
+        "word_id": "5437"
+    },
+    {
+        "word": "unprecedented",
+        "chinese": "never done or known before adj. 前所未有的,史无前例的",
+        "look": "1",
+        "id": "27733109",
+        "word_id": "1053"
+    },
+    {
+        "word": "unpropitious",
+        "chinese": "【形】不吉利的，恶运的",
+        "look": "1",
+        "id": "27733110",
+        "word_id": "7086"
+    },
+    {
+        "word": "upbraid",
+        "chinese": "【动】责备，申斥，谴责",
+        "look": "1",
+        "id": "27733111",
+        "word_id": "1060"
+    },
+    {
+        "word": "utensil",
+        "chinese": "【名】器具，用具，器皿",
+        "look": "1",
+        "id": "27733112",
+        "word_id": "7087"
+    },
+    {
+        "word": "vapid",
+        "chinese": "【形】乏味的，无趣的",
+        "look": "1",
+        "id": "27733113",
+        "word_id": "1936"
+    },
+    {
+        "word": "vent",
+        "chinese": "【名】（气体、液体等进出的）孔、口",
+        "look": "1",
+        "id": "27733114",
+        "word_id": "4838"
+    },
+    {
+        "word": "veracious",
+        "chinese": "【形】诚实的",
+        "look": "1",
+        "id": "27733115",
+        "word_id": "7088"
+    },
+    {
+        "word": "veracity",
+        "chinese": "n.诚实,真实(性的),正确(度),精确性",
+        "look": "1",
+        "id": "27733116",
+        "word_id": "2978"
+    },
+    {
+        "word": "verdict",
+        "chinese": "【名】（陪审团的）裁决、裁定",
+        "look": "1",
+        "id": "27733117",
+        "word_id": "7089"
+    },
+    {
+        "word": "vestment",
+        "chinese": "【名】1. （牧师的）法衣；2. 礼仪服装",
+        "look": "1",
+        "id": "27733118",
+        "word_id": "7090"
+    },
+    {
+        "word": "veteran",
+        "chinese": "【名】1. 退伍老兵；2. 经验丰富的人 ",
+        "look": "1",
+        "id": "27733119",
+        "word_id": "7091"
+    },
+    {
+        "word": "vex",
+        "chinese": "【动】使烦恼，使生气",
+        "look": "1",
+        "id": "27733120",
+        "word_id": "1072"
+    },
+    {
+        "word": "vie",
+        "chinese": "【动】争胜，竞争",
+        "look": "1",
+        "id": "27733121",
+        "word_id": "489"
+    },
+    {
+        "word": "vigilant",
+        "chinese": "【形】警惕的：alert",
+        "look": "1",
+        "id": "27733122",
+        "word_id": "1782"
+    },
+    {
+        "word": "vilify",
+        "chinese": "vt.中伤,诽谤",
+        "look": "1",
+        "id": "27733123",
+        "word_id": "1364"
+    },
+    {
+        "word": "virtual",
+        "chinese": "【形】实质上的，事实上的",
+        "look": "1",
+        "id": "27733124",
+        "word_id": "4850"
+    },
+    {
+        "word": "virtuous",
+        "chinese": "【形】品德高尚的",
+        "look": "1",
+        "id": "27733125",
+        "word_id": "7092"
+    },
+    {
+        "word": "vivify",
+        "chinese": "【动】使生动，给予生气",
+        "look": "1",
+        "id": "27733126",
+        "word_id": "7093"
+    },
+    {
+        "word": "voracious",
+        "chinese": "【形】贪吃的",
+        "look": "1",
+        "id": "27733127",
+        "word_id": "2184"
+    },
+    {
+        "word": "voyage",
+        "chinese": "【名】航行，航海，航天",
+        "look": "1",
+        "id": "27733128",
+        "word_id": "7094"
+    },
+    {
+        "word": "waive",
+        "chinese": "【动】自愿放弃：give up voluntarily",
+        "look": "1",
+        "id": "27733129",
+        "word_id": "7095"
+    },
+    {
+        "word": "warrant",
+        "chinese": "【动】【名】保证，担保 ",
+        "look": "1",
+        "id": "27733130",
+        "word_id": "4866"
+    },
+    {
+        "word": "warring",
+        "chinese": "【形】交战的，敌对的 ",
+        "look": "1",
+        "id": "27733131",
+        "word_id": "7096"
+    },
+    {
+        "word": "whim",
+        "chinese": "【名】突发奇想，异想天开",
+        "look": "1",
+        "id": "27733132",
+        "word_id": "1612"
+    },
+    {
+        "word": "whimsical",
+        "chinese": "【形】异想天开的，想入非非的",
+        "look": "1",
+        "id": "27733133",
+        "word_id": "2785"
+    },
+    {
+        "word": "widget",
+        "chinese": "【名】小器具，装饰品",
+        "look": "1",
+        "id": "27733134",
+        "word_id": "7097"
+    },
+    {
+        "word": "wispy",
+        "chinese": "【形】小束状的；纤细的，微弱的：slight",
+        "look": "1",
+        "id": "27733135",
+        "word_id": "4879"
+    },
+    {
+        "word": "withdraw",
+        "chinese": "【动】1. 撤退；2. 收回，提取",
+        "look": "1",
+        "id": "27733136",
+        "word_id": "7098"
+    },
+    {
+        "word": "zany",
+        "chinese": "【形】滑稽的",
+        "look": "1",
+        "id": "27733137",
+        "word_id": "2882"
+    },
+    {
+        "word": "zeal",
+        "chinese": "【名】热忱，热情",
+        "look": "1",
+        "id": "27733138",
+        "word_id": "7099"
+    }
+]
